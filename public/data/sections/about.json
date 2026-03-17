@@ -1,0 +1,47 @@
+{
+    "articles": [
+        {
+            "id": "profile-about",
+            "component": "ArticleProfile",
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "I design and develop systems for service companies in diverse sectors, including Finance, Marketing, Medical, Training, Insurance, and Inventory management. I also create solutions for manufacturing companies in areas such as Production Control, Production Engineering, Finance, and Quality Assurance."
+                        },
+                        "es": {
+                            "description": "Diseño y desarrollo sistemas para empresas de servicios en diversos sectores, incluyendo Finanzas, Marketing, Medicina, Capacitación, Seguros y Gestión de Inventarios. También creo soluciones para empresas manufactureras en áreas como Control de Producción, Ingeniería de Producción, Finanzas y Aseguramiento de la Calidad."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "I consider myself a fast learner with strong problem-solving skills, and I have been primarily oriented as a Full-Stack Developer. My experience includes working extensively with Angular as my main framework, along with Vue.js and React for building modern, scalable applications."
+                        },
+                        "es": {
+                            "description": "Me considero un aprendiz rápido con fuertes habilidades para resolver problemas, y me he orientado principalmente como Desarrollador Full-Stack. Mi experiencia incluye trabajar extensamente con Angular como mi marco principal, junto con Vue.js y React para construir aplicaciones modernas y escalables."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "locales": {
+                        "en": {
+                            "description": "In addition, I regularly build prototypes using Arduino, Android and mostly <strong>ESP32</strong> Chips to remotely control circuits via Bluetooth or Wi-Fi. This continuous experimentation keeps me engaged in learning and exploring new technologies."
+                        },
+                        "es": {
+                            "description": "Además, regularmente construyo prototipos utilizando Arduino, Android pero principalmente microcontroladores <strong>ESP32</strong> para controlar circuitos de forma remota a través de Bluetooth o Wi-Fi. Esta experimentación continua me mantiene comprometido con el aprendizaje y la exploración de nuevas tecnologías."
+                        }
+                    }
+                }
+            ],
+            "settings": {
+                "contact_list_ids": ["address", "email", "phone"],
+                "contact_circles_ids": ["linkedin", "github", "pdf-short-version", "pdf-full-version"]
+            }
+        }
+    ]
+}

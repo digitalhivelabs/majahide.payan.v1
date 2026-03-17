@@ -1,0 +1,816 @@
+{
+    "articles": [
+        {
+            "id": "profile-general-skills",
+            "component": "ArticleSkills",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "fallbackFaIcon": "fa-solid fa-computer", 
+                    "locales": {
+                        "en": {
+                            "title": "Technical Architecture",
+                            "description": "Implementation of CI/CD, Docker containers, and continuous integration strategies. Automation of testing, documentation, and deployments for large, distributed teams."
+                        },
+                        "es": {
+                            "title": "Arquitectura Técnica",
+                            "description": "Implementación de CI/CD, contenedores Docker y estrategias de integración continua. Automatización de pruebas, documentación y despliegues para equipos grandes y distribuidos."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "fallbackFaIcon": "fa-solid fa-code", 
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Development",
+                            "description": "Extensive experience in .NET, C#, Angular, Vue.js, SQL Server, MongoDB, REST APIs. Development of complete applications, from responsive front-end to robust back-end."
+                        },
+                        "es": {
+                            "title": "Desarrollo Full Stack",
+                            "description": "Amplia experiencia en .NET, C#, Angular, Vue.js, SQL Server, MongoDB, REST APIs. Desarrollo de aplicaciones completas, desde el front-end responsivo hasta el back-end robusto."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "fallbackFaIcon": "fa-solid fa-robot", 
+                    "locales": {
+                        "en": {
+                            "title": "Workflow & Automation",
+                            "description": "Implementation of CI/CD, Docker containers, and continuous integration strategies. Automation of testing, documentation, and deployments for large, distributed teams."
+                        },
+                        "es": {
+                            "title": "Flujo de Trabajo y Automatización",
+                            "description": "Implementación de CI/CD, contenedores Docker y estrategias de integración continua. Automatización de pruebas, documentación y despliegues para equipos grandes y distribuidos."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "fallbackFaIcon": "fa-solid fa-book-open-reader", 
+                    "locales": {
+                        "en": {
+                            "title": "Leadership & Mentoring",
+                            "description": "Roles such as Tech Lead, Chief Architect, and Teacher, leading teams and training developers. Experience in agile methodologies (Scrum, Kanban) and coordination of international projects."
+                        },
+                        "es": {
+                            "title": "Liderazgo y Mentoría",
+                            "description": "Roles como Tech Lead, Chief Architect y Teacher, liderando equipos y capacitando a desarrolladores. Experiencia en metodologías ágiles (Scrum, Kanban) y coordinación de proyectos internacionales."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "fallbackFaIcon": "fa-solid fa-cubes", 
+                    "locales": {
+                        "en": {
+                            "title": "Business & SaaS Modeling",
+                            "description": "Design of business models for SaaS: pricing, user acquisition, and financial projections. Ability to align technical vision with business objectives."
+                        },
+                        "es": {
+                            "title": "Modelado de Negocios y SaaS",
+                            "description": "Diseño de modelos de negocio para SaaS: precios, adquisición de usuarios y proyecciones financieras. Capacidad para alinear la visión técnica con los objetivos comerciales."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "fallbackFaIcon": "fa-solid fa-palette", 
+                    "locales": {
+                        "en": {
+                            "title": "UI/UX & Interactive Systems",
+                            "description": "Creation of intuitive interfaces and interactive applications (including hardware such as Arduino and phidgets). Experience in prototyping, usability testing, and user-centered design."
+                        },
+                        "es": {
+                            "title": "UI/UX y Sistemas Interactivos",
+                            "description": "Creación de interfaces intuitivas y aplicaciones interactivas (incluyendo hardware como Arduino y phidgets). Experiencia en prototipado, pruebas de usabilidad y diseño centrado en el usuario."
+                        }
+                    }
+                }
+           ]
+        }, 
+
+
+
+
+        {
+            "id": "profile-front-end-skills",
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Front-End Stack",
+                    "description": "Additional technical competencies and expertise in front-end development"
+                },
+                "es": {
+                    "title": "Stack de Front-End",
+                    "description": "Competencias y experiencia técnica adicional en desarrollo front-end"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 3,
+                "transparent_item_icon_background": true,
+                "small_icons": false
+            },
+            "items": [
+                {
+                    "id": 7,
+                    "fallbackFaIcon": "fa-brands fa-angular", 
+                    "fallbackFaIconColor": "red",
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "Angular, Angular Js",
+                            "level": "Advance",
+                            "description": "<strong>10+ </strong>years experience"
+                        },
+                        "es": {
+                            "title": "Angular, Angular Js",
+                            "level": "Avanzado",
+                            "description": "<strong>10+ </strong>años de experiencia"
+
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "fallbackFaIcon": "fa-solid fa-circle-question", 
+                    "fallbackFaIconColor": "blue",
+                    "percentage": 72,
+                    "locales": {
+                        "en": {
+                            "title": "TypeScript",
+                            "level": "Senior",
+                            "description": "<strong>10+</strong> years experience"
+                        },
+                        "es": {
+                            "title": "TypeScript",
+                            "level": "Senior",
+                            "description": "<strong>10+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "fallbackFaIcon": "fa-brands fa-vuejs", 
+                    "fallbackFaIconColor": "green",
+                    "percentage": 52, 
+                    "locales": {
+                        "en": {
+                            "title": "ViewJs",
+                            "level": "Intermidiate",
+                            "description": "<strong>2+</strong> years experience"
+                        },
+                        "es": {
+                            "title": "ViewJs",
+                            "level": "Intermidiate",
+                            "description": "<strong>2+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "fallbackFaIcon": "fa-brands fa-react", 
+                    "fallbackFaIconColor": "cyan",
+                    "percentage": 52, 
+                    "locales": {
+                        "en": {
+                            "title": "React",
+                            "level": "Intermidiate",
+                            "description": "<strong>1+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "React",
+                            "level": "Intermidiate",
+                            "description": "<strong>1+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 11,
+                    "fallbackFaIcon": "fa-brands fa-html5", 
+                    "fallbackFaIconColor": "blue",
+                    "locales": {
+                        "en": {
+                            "title": "HTML 5",
+                            "level": "Senior",
+                            "description": "<strong>10+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "HTML 5",
+                            "level": "Senior",
+                            "description": "<strong>10+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 12,
+                    "fallbackFaIcon": "fa-brands fa-css3", 
+                    "fallbackFaIconColor": "orange",
+                    "locales": {
+                        "en": {
+                            "title": "CSS3",
+                            "level": "Intermidiate",
+                            "description": "<strong>10+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "CSS3",
+                            "level": "Intermidiate",
+                            "description": "<strong>10+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 13,
+                    "fallbackFaIcon": "fa-brands fa-js", 
+                    "fallbackFaIconColor": "yellow",
+                    "locales": {
+                        "en": {
+                            "title": "Javascript",
+                            "level": "Senior",
+                            "description": "<strong>15+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Javascript",
+                            "level": "Senior",
+                            "description": "<strong>15+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 14,
+                    "fallbackFaIcon": "fa-solid fa-code", 
+                    "fallbackFaIconColor": "blue",
+                    "locales": {
+                        "en": {
+                            "title": "jQuery",
+                            "level": "Senior",
+                            "description": "<strong>5+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "jQuery",
+                            "level": "Senior",
+                            "description": "<strong>5+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 15,
+                    "fallbackFaIcon": "fa-brands fa-bootstrap", 
+                    "locales": {
+                        "en": {
+                            "title": "Bootstrap",
+                            "level": "Senior",
+                            "description": "<strong>10+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Bootstrap",
+                            "level": "Senior",
+                            "description": "<strong>10+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 16,
+                    "fallbackFaIcon": "fa-solid fa-circle-question", 
+                    "locales": {
+                        "en": {
+                            "title": "Tailwind",
+                            "level": "Intermidiate",
+                            "description": "<strong>1+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Intermidiate",
+                            "description": "<strong>1+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 17,
+                    "fallbackFaIcon": "fa-solid fa-mobile-screen", 
+                    "fallbackFaIconColor": "blue",
+                    "locales": {
+                        "en": {
+                            "title": "iOnic",
+                            "level": "Intermidiate",
+                            "description": "<strong>5+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "iOnic",
+                            "level": "Intermidiate",
+                            "description": "<strong>5+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 18,
+                    "fallbackFaIcon": "fa-solid fa-code", 
+                    "locales": {
+                        "en": {
+                            "title": "Paper.js",
+                            "level": "Intermidiate",
+                            "description": "<strong>2+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Paper.js",
+                            "level": "Intermidiate",
+                            "description": "<strong>2+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 19,
+                    "fallbackFaIcon": "fa-solid fa-code", 
+                    "locales": {
+                        "en": {
+                            "title": "Three.js",
+                            "level": "Intermidiate",
+                            "description": "<strong>2+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Three.js",
+                            "level": "Intermidiate",
+                            "description": "<strong>2+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 20,
+                    "fallbackFaIcon": "fa-solid fa-chart-pie", 
+                    "locales": {
+                        "en": {
+                            "title": "Chart.js",
+                            "level": "Intermidiate",
+                            "description": "<strong>5+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Chart.js",
+                            "level": "Intermidiate",
+                            "description": "<strong>5+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 21,
+                    "fallbackFaIcon": "fa-solid fa-window-restore", 
+                    "locales": {
+                        "en": {
+                            "title": "Winforms",
+                            "level": "Senior",
+                            "description": "<strong>10+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Winforms",
+                            "level": "Senior",
+                            "description": "<strong>10+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 22,
+                    "fallbackFaIcon": "fa-brands fa-wpforms", 
+                    "locales": {
+                        "en": {
+                            "title": "WPF",
+                            "level": "Senior",
+                            "description": "<strong>5/strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "WPF",
+                            "level": "Senior",
+                            "description": "<strong>5+</strong> años de experiencia"
+                        }
+                    }
+                }
+
+          ]
+        },
+
+
+
+
+
+        {
+            "id": "profile-back-end-skills",
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Back-End Stack",
+                    "description": "Technical competencies and expertise in back-end development"
+                },
+                "es": {
+                    "title": "Stack de Back-End",
+                    "description": "Competencia y experiencia tecnica en desarrollo back-end"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 3,
+                "transparent_item_icon_background": true,
+                "small_icons": false
+            },
+            "items": [
+                {
+                    "id": 50,
+                    "fallbackFaIcon": "fa-solid fa-hashtag", 
+                    "fallbackFaIconColor": "blue",
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "C-Sharp",
+                            "level": "Senior",
+                            "description": "<strong>15+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "C-Sharp",
+                            "level": "Senior",
+                            "description": "<strong>15+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 51,
+                    "fallbackFaIcon": "fa-brands fa-python", 
+                    "fallbackFaIconColor": "blue",
+                    "percentage": 56,
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "level": "Intermidiate",
+                            "description": "<strong>3+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Python",
+                            "level": "Intermidiate",
+                            "description": "<strong>3+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 52,
+                    "fallbackFaIcon": "fa-solid fa-c", 
+                    "fallbackFaIconColor": "blue",
+                    "percentage": 84,
+                    "locales": {
+                        "en": {
+                            "title": "C",
+                            "level": "Senior",
+                            "description": "<strong>3+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "C",
+                            "level": "Senior",
+                            "description": "<strong>3+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 53,
+                    "fallbackFaIcon": "fa-brands fa-superpowers", 
+                    "fallbackFaIconColor": "blue",
+                    "locales": {
+                        "en": {
+                            "title": "PowerShell",
+                            "level": "Intermediate",
+                            "description": "<strong>3+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "PowerShell",
+                            "level": "Intermediate",
+                            "description": "<strong>3+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 54,
+                    "fallbackFaIcon": "fa-solid fa-envelope",
+                    "fallbackFaIconColor": "#4A90E2",
+                    "locales": {
+                        "en": {
+                            "title": "SOAP",
+                            "description": "<strong>5</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "SOAP",
+                            "description": "<strong>5</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 55,
+                    "fallbackFaIcon": "fa-solid fa-cloud",
+                    "fallbackFaIconColor": "#50C878",
+                    "locales": {
+                        "en": {
+                            "title": "REST",
+                            "description": "<strong>10</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "REST",
+                            "description": "<strong>10</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 56,
+                    "fallbackFaIcon": "fa-solid fa-bolt",
+                    "fallbackFaIconColor": "#9B59B6",
+                    "locales": {
+                        "en": {
+                            "title": "Minimal API",
+                            "description": "<strong>5</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Minimal API",
+                            "description": "<strong>5</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 57,
+                    "fallbackFaIcon": "fa-brands fa-docker",
+                    "fallbackFaIconColor": "#2496ED",
+                    "locales": {
+                        "en": {
+                            "title": "Docker",
+                            "description": "<strong>3</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Docker",
+                            "description": "<strong>3</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 58,
+                    "fallbackFaIcon": "fa-brands fa-jenkins",
+                    "fallbackFaIconColor": "#D24939",
+                    "locales": {
+                        "en": {
+                            "title": "Jenkins",
+                            "description": "<strong>5</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Jenkins",
+                            "description": "<strong>5</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 59,
+                    "fallbackFaIcon": "fa-solid fa-code-branch",
+                    "fallbackFaIconColor": "#F05032",
+                    "locales": {
+                        "en": {
+                            "title": "Git, Mercurial, SVN, Perforce",
+                            "description": "<strong>15+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Git, Mercurial, SVN, Perforce",
+                            "description": "<strong>15+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 60,
+                    "fallbackFaIcon": "fa-solid fa-network-wired",
+                    "fallbackFaIconColor": "#0078D4",
+                    "locales": {
+                        "en": {
+                            "title": "WCF",
+                            "description": "<strong>5+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "WCF",
+                            "description": "<strong>5+</strong> años de experiencia"
+                        }
+                    }
+                }
+          ]
+        },
+
+
+
+
+
+
+        {
+            "id": "profile-education",
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Data Stack",
+                    "description": "Technical competencies and expertise in data management and analysis"
+                },
+                "es": {
+                    "title": "Stack de Datos",
+                    "description": "Competencia y experiencia tecnica en gestión y análisis de datos"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 3,
+                "transparent_item_icon_background": true,
+                "small_icons": false
+            },
+            "items": [
+                {
+                    "id": 70,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": "#CC2927",
+                    "locales": {
+                        "en": {
+                            "title": "SQL Server (T-SQL)",
+                            "description": "<strong>15+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "SQL Server (T-SQL)",
+                            "description": "<strong>15+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 71,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": "#F80000",
+                    "locales": {
+                        "en": {
+                            "title": "Oracle (PL-SQL)",
+                            "description": "<strong>5+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Oracle (PL-SQL)",
+                            "description": "<strong>5+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 72,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": "#4479A1",
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "description": "<strong>5+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "MySQL",
+                            "description": "<strong>5+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 73,
+                    "fallbackFaIcon": "fa-solid fa-fire",
+                    "fallbackFaIconColor": "#FFCA28",
+                    "locales": {
+                        "en": {
+                            "title": "Firebase",
+                            "description": "<strong>3+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "Firebase",
+                            "description": "<strong>3+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 74,
+                    "fallbackFaIcon": "fa-brands fa-mdb",
+                    "fallbackFaIconColor": "#4DB33D",
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "description": "<strong>3+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "MongoDB",
+                            "description": "<strong>3+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 75,
+                    "fallbackFaIcon": "fa-brands fa-aws",
+                    "fallbackFaIconColor": "#527FFF",
+                    "locales": {
+                        "en": {
+                            "title": "DynamoDB",
+                            "description": "<strong>2+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "DynamoDB",
+                            "description": "<strong>2+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 76,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": "#336791",
+                    "locales": {
+                        "en": {
+                            "title": "PostgreSQL",
+                            "description": "<strong>1+</strong> years experience<br/>"
+                        },
+                        "es": {
+                            "title": "PostgreSQL",
+                            "description": "<strong>1+</strong> años de experiencia"
+                        }
+                    }
+                }
+          ]
+        },
+
+
+
+
+
+        {
+            "id": "profile-education",
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Cloud Stack",
+                    "description": "Technical competencies and expertise in cloud platforms and services"
+                },
+                "es": {
+                    "title": "Stack de Nube",
+                    "description": "Competencia y experiencia tecnica en plataformas y servicios en la nube"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 3,
+                "transparent_item_icon_background": true,
+                "small_icons": false
+            },
+            "items": [
+                {
+                    "id": 90,
+                    "fallbackFaIcon": "fa-brands fa-microsoft",
+                    "fallbackFaIconColor": "#0078D4",
+                    "locales": {
+                        "en": {
+                            "title": "Azure",
+                            "description": "<strong>3+</strong> years experience"
+                        },
+                        "es": {
+                            "title": "Azure",
+                            "description": "<strong>3+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 91,
+                    "fallbackFaIcon": "fa-brands fa-aws",
+                    "fallbackFaIconColor": "#FF9900",
+                    "locales": {
+                        "en": {
+                            "title": "AWS",
+                            "description": "<strong>2+</strong> years experience"
+                        },
+                        "es": {
+                            "title": "AWS",
+                            "description": "<strong>2+</strong> años de experiencia"
+                        }
+                    }
+                },
+                {
+                    "id": 92,
+                    "fallbackFaIcon": "fa-solid fa-chart-line",
+                    "fallbackFaIconColor": "#E37400",
+                    "locales": {
+                        "en": {
+                            "title": "Google Analytics",
+                            "description": "<strong>5+</strong> years experience"
+                        },
+                        "es": {
+                            "title": "Google Analytics",
+                            "description": "<strong>5+</strong> años de experiencia"
+                        }
+                    }
+                }
+          ]
+        }
+
+
+
+
+
+
+
+    ]
+}

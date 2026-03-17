@@ -1,0 +1,68 @@
+{
+    "name": "Majahide Payan",
+    "profilePictureUrl": "images/Pictures/MPH.PNG",
+    "locales": {
+        "en": {
+            "name": "Majahide Payan",
+            "credits": "<strong><a href='https://github.com/digitalhivelabs'>Majahide Payan</a></strong>",
+            "role": "Full Stack Developer"
+        },
+        "es": {
+            "name": "Majahide Payan",
+            "credits": "Diseñado por <strong><a href='https://github.com/digitalhivelabs'>Majahide Payan</a></strong>",
+            "role": "Desarrollador Full Stack"
+        }
+    },
+    "contactOptions": [
+        {
+            "id":"address",
+            "value": "Bugambilias No. 39 Jardines de la mesa 22126",
+            "valueShort": "Tiuana B.C. Mexico",
+            "faIcon": "fa-regular fa-map",
+            "href": null
+        },
+        {
+            "id":"linkedin",
+            "value": "Majahide Payan",
+            "valueShort": "Majahide Payan",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/majahide-payan-2460b01b6/?locale=en_US"
+        },
+        {
+            "id":"phone",
+            "value": "+52 (664) 759-0139",
+            "valueShort": "(664) 759-0139",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:+526647590139"
+        },
+        {
+            "id":"email",
+            "value": "mpayan1@gmail.com",
+            "valueShort": "mpayan@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:mpayan1@gmail.com"
+        },
+        {
+            "id":"github",
+            "value": "Majahide Payan",
+            "valueShort": "Majahide Payan",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/digitalhivelabs"
+        },
+        {
+            "id":"pdf-short-version",
+            "value": "Majahide Payan",
+            "valueShort": "Majahide Payan",
+            "faIcon": "fa-regular fa-file-pdf",
+            "href": "https://example.com/your_resume.pdf"
+        },
+        {
+            "id":"pdf-full-version",
+            "value": "Majahide Payan",
+            "valueShort": "Majahide Payan",
+            "faIcon": "fa-regular fa-file-pdf",
+            "href": "https://example.com/your_resume.pdf"
+        }
+
+    ]
+}

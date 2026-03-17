@@ -1,0 +1,381 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "category_all": "All",
+                    "category_apps": "Apps",
+                    "category_games": "Games",
+                    "category_websites": "Websites",
+                    "category_mobile": "Mobile"
+                },
+                "es": {
+                    "category_all": "Todos",
+                    "category_apps": "Aplicaciones",
+                    "category_games": "Juegos",
+                    "category_websites": "Sitios web",
+                    "category_mobile": "Móvil"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "/images/Pictures/portfolio/amiguito.png",
+                    "category": "apps",
+                    "locales": {
+                        "en": {
+                            "title": "Amiguito 3.0",
+                            "description": "<p>Amiguito 3.0 was built to streamline the administrative tasks involved in managing vehicle insurance policies. Developed in Visual Basic 4.0, the system leverages a simple yet functional interface to allow users to input, store, and retrieve customer and vehicle data. Its purpose is to reduce manual paperwork and provide a structured way to handle insurance records, claims, and policy details.</p><p>The application emphasizes accessibility and organization. By centralizing insurance information, Amiguito 3.0 enables faster lookups and more reliable record-keeping. Users can register vehicles, associate them with policyholders, and maintain a history of insurance coverage. This not only improves efficiency for insurance agents but also minimizes errors in documentation. Although built on older technology, the system reflects an early effort to digitize insurance workflows, offering a practical solution for small to medium-sized operations that needed a straightforward tool for managing vehicle insurance data.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 4.0 • SQL Server 7.0 • Spread Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Vehicle Insurance", "Claims", "Customer Records", "Data Entry", "Record Keeping"]
+                        },
+                        "es": {
+                            "title": "Amiguito 3.0",
+                            "description": "<p>Amiguito 3.0 fue desarrollado para optimizar las tareas administrativas involucradas en la gestión de pólizas de seguro de vehículos. Desarrollado en Visual Basic 4.0, el sistema aprovecha una interfaz simple pero funcional que permite a los usuarios ingresar, almacenar y recuperar datos de clientes y vehículos. Su propósito es reducir el papeleo manual y proporcionar una forma estructurada de manejar registros de seguros, reclamaciones y detalles de pólizas.</p><p>La aplicación enfatiza la accesibilidad y organización. Al centralizar la información de seguros, Amiguito 3.0 permite búsquedas más rápidas y un mantenimiento de registros más confiable. Los usuarios pueden registrar vehículos, asociarlos con asegurados y mantener un historial de cobertura de seguros. Esto no solo mejora la eficiencia de los agentes de seguros, sino que también minimiza errores en la documentación. Aunque construido con tecnología antigua, el sistema refleja un esfuerzo temprano por digitalizar los flujos de trabajo de seguros, ofreciendo una solución práctica para operaciones pequeñas y medianas que necesitaban una herramienta sencilla para gestionar datos de seguros de vehículos.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 4.0 • SQL Server 7.0 • Spread Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Seguros de Vehículos", "Reclamaciones", "Registros de Clientes", "Entrada de Datos", "Mantenimiento de Registros"]
+                        }
+                    },
+                    "links": [
+                        {
+                            "href": "https://www.google.com",
+                            "faIcon": "fa-solid fa-globe",
+                            "stringKey": "Some key"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "img": "/images/Pictures/portfolio/hotel2000.jpg",
+                    "category": "apps",
+                    "locales": {
+                        "en": {
+                            "title": "Hotel 2000",
+                            "description": "<p>Hotel 2000 was designed as a specialized reservation system to simplify the process of managing hotel bookings. Built in Visual Basic 4.0, the application offers a straightforward interface where staff can register guests, assign rooms, and track reservation details. Its purpose is to reduce manual errors and provide a structured workflow for handling reservations efficiently.</p><p>The system emphasizes practicality and organization. By centralizing reservation data, Hotel 2000 enables faster check-ins, better room allocation, and improved customer service. Although limited to the reservations module, it represents an early effort to digitize hospitality operations, offering hotels a reliable tool to manage guest bookings and maintain accurate records. This makes it particularly useful for small and medium-sized hotels seeking a simple yet effective solution for reservation management.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 4.0 • SQL Server 7.0 • Spread Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Hotel Reservations", "Booking System", "Guest Records", "Room Allocation", "Reservation Tracking", "Legacy Software"]
+                        },
+                        "es": {
+                            "title": "Hotel 2000",
+                            "description": "<p>Hotel 2000 fue diseñado como un sistema especializado de reservaciones para simplificar el proceso de gestión de reservas hoteleras. Construido en Visual Basic 4.0, la aplicación ofrece una interfaz sencilla donde el personal puede registrar huéspedes, asignar habitaciones y rastrear detalles de reservaciones. Su propósito es reducir errores manuales y proporcionar un flujo de trabajo estructurado para manejar reservaciones de manera eficiente.</p><p>El sistema enfatiza la practicidad y organización. Al centralizar los datos de reservaciones, Hotel 2000 permite check-ins más rápidos, mejor asignación de habitaciones y un servicio al cliente mejorado. Aunque limitado al módulo de reservaciones, representa un esfuerzo temprano por digitalizar las operaciones hoteleras, ofreciendo una herramienta confiable para gestionar reservas de huéspedes y mantener registros precisos. Esto lo hace particularmente útil para hoteles pequeños y medianos que buscan una solución simple pero efectiva.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 4.0 • SQL Server 7.0 • Spread Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Reservaciones Hoteleras", "Sistema de Reservas", "Registros de Huéspedes", "Asignación de Habitaciones", "Seguimiento de Reservas", "Software Legado"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 3,
+                    "img": "/images/Pictures/portfolio/rest2000.jpg",
+                    "category": "apps",
+                    "locales": {
+                        "en": {
+                            "title": "Restaurant 2000",
+                            "description": "<p><strong>Restaurant 2000</strong> was developed to provide restaurants with a comprehensive digital solution for managing daily operations. Built in Visual Basic 4.0, the system integrates multiple functions such as table reservations, order tracking, billing, and inventory management. Its purpose is to streamline workflows, reduce manual errors, and improve customer service by centralizing all restaurant activities into one accessible platform.</p><p>The application emphasizes efficiency and organization. By combining administrative tasks with operational control, Restaurant 2000 enables managers to oversee staff performance, monitor stock levels, and ensure smooth customer experiences. Although created with legacy technology, it represents an early effort to digitize hospitality management, offering restaurants a reliable tool to enhance productivity and maintain accurate records across all aspects of their business.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 4.0 • SQL Server 7.0 • Spread Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Restaurant Management", "Reservations and Orders", "Inventory Tracking", "Billing and Payments"]
+                        },
+                        "es": {
+                            "title": "Restaurant 2000",
+                            "description": "<p><strong>Restaurant 2000</strong> fue desarrollado para proporcionar a los restaurantes una solución digital integral para gestionar las operaciones diarias. Construido en Visual Basic 4.0, el sistema integra múltiples funciones como reservaciones de mesas, seguimiento de pedidos, facturación y gestión de inventario. Su propósito es optimizar flujos de trabajo, reducir errores manuales y mejorar el servicio al cliente centralizando todas las actividades del restaurante en una plataforma accesible.</p><p>La aplicación enfatiza la eficiencia y organización. Al combinar tareas administrativas con control operacional, Restaurant 2000 permite a los gerentes supervisar el desempeño del personal, monitorear niveles de stock y asegurar experiencias fluidas para los clientes. Aunque creado con tecnología legada, representa un esfuerzo temprano por digitalizar la gestión hotelera, ofreciendo una herramienta confiable para mejorar la productividad y mantener registros precisos en todos los aspectos del negocio.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 4.0 • SQL Server 7.0 • Spread Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Gestión de Restaurantes", "Reservas y Pedidos", "Control de Inventario", "Facturación y Pagos"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 4,
+                    "img": "/images/Pictures/portfolio/sil.jpg",
+                    "category": "apps",
+                    "locales": {
+                        "en": {
+                            "title": "SIL (Sistema Integral Lagza)",
+                            "description": "<p><strong>SIL (Sistema Integral Lagza)</strong> was created to provide a structured solution for real estate administration. Built in Visual Basic 6.0, the system centralizes property data, client records, and transaction details, offering a reliable way to manage the complexities of real estate operations. Its purpose is to reduce manual paperwork, improve accuracy, and streamline workflows for agencies or businesses handling property management.</p><p>The application emphasizes efficiency and organization by integrating administrative tasks into a single platform. Users can register properties, track ownership changes, and maintain client histories, ensuring that all relevant information is easily accessible. Although based on legacy technology, SIL represents an early effort to digitize real estate control, offering a practical tool for businesses seeking to modernize their administrative processes and maintain accurate records.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Spread Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Real Estate Management", "Property Records", "Administrative System", "Client Information", "Transaction Tracking", "Record Keeping"]
+                        },
+                        "es": {
+                            "title": "SIL (Sistema Integral Lagza)",
+                            "description": "<p><strong>SIL (Sistema Integral Lagza)</strong> fue creado para proporcionar una solución estructurada para la administración de bienes raíces. Construido en Visual Basic 6.0, el sistema centraliza datos de propiedades, registros de clientes y detalles de transacciones, ofreciendo una manera confiable de gestionar las complejidades de las operaciones inmobiliarias. Su propósito es reducir el papeleo manual, mejorar la precisión y optimizar los flujos de trabajo para agencias o negocios que manejan gestión de propiedades.</p><p>La aplicación enfatiza la eficiencia y organización al integrar tareas administrativas en una sola plataforma. Los usuarios pueden registrar propiedades, rastrear cambios de propiedad y mantener historiales de clientes, asegurando que toda la información relevante sea fácilmente accesible. Aunque basado en tecnología legada, SIL representa un esfuerzo temprano por digitalizar el control inmobiliario, ofreciendo una herramienta práctica para empresas que buscan modernizar sus procesos administrativos.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Spread Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Gestión Inmobiliaria", "Registros de Propiedades", "Sistema Administrativo", "Información de Clientes", "Seguimiento de Transacciones", "Mantenimiento de Registros"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 5,
+                    "img": "/images/Pictures/portfolio/dental.png",
+                    "category": "apps",
+                    "locales": {
+                        "en": {
+                            "title": "NBP-Dental",
+                            "description": "<p><strong>NBP-Dental</strong> was created to provide dental practices with a structured solution for managing patient administration. Built in Visual Basic 6.0, the system centralizes patient data, appointment scheduling, and treatment histories, offering a reliable way to maintain accurate records. Its purpose is to reduce manual paperwork, improve efficiency, and ensure that practitioners have quick access to essential patient information.</p><p>The application emphasizes organization and continuity of care. By integrating patient control with historical summaries, NBP-Dental allows dentists and staff to track treatments over time, monitor progress, and maintain comprehensive records for each patient. Although based on legacy technology, it represents an early effort to digitize dental practice management, offering a practical tool for clinics seeking to modernize their administrative processes and enhance patient service.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Infragistics Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Dental Practice Management", "Patient Records", "Historical Treatment Tracking", "Appointment Scheduling", "Healthcare Workflow", "Administrative System", "Clinical Administration", "Patient Control"]
+                        },
+                        "es": {
+                            "title": "NBP-Dental",
+                            "description": "<p><strong>NBP-Dental</strong> fue creado para proporcionar a las prácticas dentales una solución estructurada para gestionar la administración de pacientes. Construido en Visual Basic 6.0, el sistema centraliza datos de pacientes, programación de citas e historiales de tratamiento, ofreciendo una manera confiable de mantener registros precisos. Su propósito es reducir el papeleo manual, mejorar la eficiencia y asegurar que los profesionales tengan acceso rápido a información esencial de pacientes.</p><p>La aplicación enfatiza la organización y continuidad del cuidado. Al integrar el control de pacientes con resúmenes históricos, NBP-Dental permite a dentistas y personal rastrear tratamientos a lo largo del tiempo, monitorear el progreso y mantener registros completos para cada paciente. Aunque basado en tecnología legada, representa un esfuerzo temprano por digitalizar la gestión de prácticas dentales, ofreciendo una herramienta práctica para clínicas que buscan modernizar sus procesos administrativos.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Infragistics Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Gestión de Práctica Dental", "Registros de Pacientes", "Seguimiento de Tratamientos", "Programación de Citas", "Flujo de Salud", "Sistema Administrativo", "Administración Clínica", "Control de Pacientes"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 6,
+                    "img": "/images/Pictures/portfolio/pventa.png",
+                    "category": "apps",
+                    "locales": {
+                        "en": {
+                            "title": "NBP-Punto de Venta",
+                            "description": "<p><strong>NBP-Punto de Venta</strong> was developed to provide businesses with a complete solution for managing inventory and sales operations. The system centralizes product data, tracks stock movements, and records sales transactions, offering a reliable way to maintain accurate records and streamline daily operations. Its purpose is to reduce manual errors, improve efficiency, and ensure that managers have clear visibility over both inventory and revenue.</p><p>The application emphasizes organization and control. By integrating inventory management with sales tracking, NBP-Punto de Venta allows businesses to monitor product availability, analyze sales trends, and generate useful reports for decision-making. It represents a practical tool for small and medium-sized enterprises seeking to modernize their operations, enhance productivity, and maintain precise control over their commercial activities.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Infragistics Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Point of Sale System", "Inventory Control", "Sales Tracking", "Transaction Records", "Retail Management"]
+                        },
+                        "es": {
+                            "title": "NBP-Punto de Venta",
+                            "description": "<p><strong>NBP-Punto de Venta</strong> fue desarrollado para proporcionar a las empresas una solución completa para gestionar operaciones de inventario y ventas. El sistema centraliza datos de productos, rastrea movimientos de stock y registra transacciones de ventas, ofreciendo una manera confiable de mantener registros precisos y optimizar las operaciones diarias. Su propósito es reducir errores manuales, mejorar la eficiencia y asegurar que los gerentes tengan visibilidad clara sobre inventario e ingresos.</p><p>La aplicación enfatiza la organización y control. Al integrar la gestión de inventario con el seguimiento de ventas, NBP-Punto de Venta permite a las empresas monitorear la disponibilidad de productos, analizar tendencias de ventas y generar reportes útiles para la toma de decisiones. Representa una herramienta práctica para pequeñas y medianas empresas que buscan modernizar sus operaciones y mantener control preciso sobre sus actividades comerciales.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Infragistics Suite Control • Crystal Reports 3.0</span></div>",
+                            "tags": ["Sistema de Punto de Venta", "Control de Inventario", "Seguimiento de Ventas", "Registros de Transacciones", "Gestión Minorista"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 7,
+                    "img": "/images/Pictures/portfolio/hermes.png",
+                    "category": "apps",
+                    "locales": {
+                        "en": {
+                            "title": "Hermes System",
+                            "description": "<p><strong>Hermes System</strong> was developed to provide a comprehensive solution for managing engineering production activities. The system centralizes operational data, tracks resources, and organizes workflows, offering businesses a structured way to monitor and control their production processes. Its purpose is to improve efficiency, reduce errors, and ensure that managers have clear visibility over the entire production cycle.</p><p>The application emphasizes coordination and productivity. By integrating administrative functions with engineering workflows, Hermes System enables organizations to optimize resource allocation, monitor project progress, and maintain accurate records of production activities. It represents a practical tool for companies seeking to modernize their operations, enhance decision-making, and achieve greater consistency in industrial management.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Infragistics Suite Control • Crystal Reports 8.0</span></div>",
+                            "tags": ["Engineering Production", "Workflow Management", "Resource Tracking", "Industrial Operations", "Project Monitoring", "Administrative Control", "Process Optimization", "Operational Efficiency"]
+                        },
+                        "es": {
+                            "title": "Hermes System",
+                            "description": "<p><strong>Hermes System</strong> fue desarrollado para proporcionar una solución integral para gestionar actividades de producción en ingeniería. El sistema centraliza datos operacionales, rastrea recursos y organiza flujos de trabajo, ofreciendo a las empresas una manera estructurada de monitorear y controlar sus procesos de producción. Su propósito es mejorar la eficiencia, reducir errores y asegurar que los gerentes tengan visibilidad clara sobre el ciclo completo de producción.</p><p>La aplicación enfatiza la coordinación y productividad. Al integrar funciones administrativas con flujos de trabajo de ingeniería, Hermes System permite a las organizaciones optimizar la asignación de recursos, monitorear el progreso de proyectos y mantener registros precisos de actividades de producción. Representa una herramienta práctica para empresas que buscan modernizar sus operaciones y lograr mayor consistencia en la gestión industrial.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Infragistics Suite Control • Crystal Reports 8.0</span></div>",
+                            "tags": ["Producción de Ingeniería", "Gestión de Flujo de Trabajo", "Seguimiento de Recursos", "Operaciones Industriales", "Monitoreo de Proyectos", "Control Administrativo", "Optimización de Procesos", "Eficiencia Operacional"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 8,
+                    "img": "/images/Pictures/portfolio/qahermes.png",
+                    "category": "apps",
+                    "locales": {
+                        "en": {
+                            "title": "QA-Hermes",
+                            "description": "<p><strong>QA-Hermes</strong> was developed to provide organizations with a specialized solution for managing and improving quality control in production environments. The system integrates touch screen technology to simplify operator interaction, making inspections and validations more intuitive and efficient. Its purpose is to enforce strict quality standards, reduce errors, and ensure that products meet the highest levels of reliability.</p><p>The application emphasizes precision and continuous improvement. By focusing on the principle of zero defects, QA-Hermes enables companies to monitor production quality in real time, identify issues quickly, and maintain comprehensive records of inspections. This approach not only enhances operational efficiency but also strengthens customer confidence by guaranteeing consistent product quality. QA-Hermes represents a practical tool for industries committed to excellence and defect-free manufacturing.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Infragistics Suite Control • Crystal Reports 8.0 • iTextPDF</span></div>",
+                            "tags": ["Quality Control", "Zero Defects", "Touch Screen Interface", "Industrial Management", "Production Monitoring", "Workflow Efficiency", "Process Optimization", "Operational Excellence", "Defect Detection"]
+                        },
+                        "es": {
+                            "title": "QA-Hermes",
+                            "description": "<p><strong>QA-Hermes</strong> fue desarrollado para proporcionar a las organizaciones una solución especializada para gestionar y mejorar el control de calidad en entornos de producción. El sistema integra tecnología de pantalla táctil para simplificar la interacción del operador, haciendo las inspecciones y validaciones más intuitivas y eficientes. Su propósito es hacer cumplir estándares de calidad estrictos, reducir errores y asegurar que los productos cumplan con los más altos niveles de confiabilidad.</p><p>La aplicación enfatiza la precisión y mejora continua. Al enfocarse en el principio de cero defectos, QA-Hermes permite a las empresas monitorear la calidad de producción en tiempo real, identificar problemas rápidamente y mantener registros completos de inspecciones. Este enfoque no solo mejora la eficiencia operacional sino que también fortalece la confianza del cliente al garantizar calidad consistente del producto. QA-Hermes representa una herramienta práctica para industrias comprometidas con la excelencia y fabricación libre de defectos.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Infragistics Suite Control • Crystal Reports 8.0 • iTextPDF</span></div>",
+                            "tags": ["Control de Calidad", "Cero Defectos", "Interfaz Táctil", "Gestión Industrial", "Monitoreo de Producción", "Eficiencia de Flujo", "Optimización de Procesos", "Excelencia Operacional", "Detección de Defectos"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 9,
+                    "img": "/images/Pictures/portfolio/webrh.png",
+                    "category": "websites",
+                    "locales": {
+                        "en": {
+                            "title": "Web-RH",
+                            "description": "<p><strong>Web-RH</strong> was developed to provide organizations with a centralized platform for managing human resources processes. The system allows administrators to track employee records, monitor attendance, and manage vacation requests, offering a structured way to handle HR operations efficiently. Its purpose is to reduce manual paperwork, improve accuracy, and ensure that staff information is easily accessible.</p><p>The application emphasizes organization and transparency. By integrating multiple HR functions into a single web-based system, Web-RH enables managers to oversee employment control, streamline administrative tasks, and maintain comprehensive records of employee activities. It represents a practical tool for businesses seeking to modernize their human resources management and enhance productivity across the organization.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>ASP.NET 3.0 • SQL Server 2000 • Crystal Reports 8.0 • HTML • CSS • C#</span></div>",
+                            "tags": ["Human Resources Management", "Employment Control", "Vacation Management", "Employee Records"]
+                        },
+                        "es": {
+                            "title": "Web-RH",
+                            "description": "<p><strong>Web-RH</strong> fue desarrollado para proporcionar a las organizaciones una plataforma centralizada para gestionar procesos de recursos humanos. El sistema permite a los administradores rastrear registros de empleados, monitorear asistencia y gestionar solicitudes de vacaciones, ofreciendo una manera estructurada de manejar operaciones de RH eficientemente. Su propósito es reducir el papeleo manual, mejorar la precisión y asegurar que la información del personal sea fácilmente accesible.</p><p>La aplicación enfatiza la organización y transparencia. Al integrar múltiples funciones de RH en un solo sistema basado en web, Web-RH permite a los gerentes supervisar el control de empleo, optimizar tareas administrativas y mantener registros completos de actividades de empleados. Representa una herramienta práctica para empresas que buscan modernizar su gestión de recursos humanos y mejorar la productividad en toda la organización.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>ASP.NET 3.0 • SQL Server 2000 • Crystal Reports 8.0 • HTML • CSS • C#</span></div>",
+                            "tags": ["Gestión de Recursos Humanos", "Control de Empleo", "Gestión de Vacaciones", "Registros de Empleados"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 10,
+                    "img": "/images/Pictures/portfolio/time.jpg",
+                    "category": "apps",
+                    "locales": {
+                        "en": {
+                            "title": "XPESD-Checador",
+                            "description": "<p><strong>XPESD-Checador</strong> was developed to provide organizations with a reliable solution for tracking employee attendance. The system records check-in and check-out times, ensuring accurate monitoring of work hours and staff presence. Its purpose is to simplify administrative tasks, reduce manual errors, and maintain precise records of employee schedules.</p><p>The application emphasizes efficiency and accountability. By automating attendance control, XPESD-Checador enables managers to oversee workforce punctuality, generate useful reports, and improve overall organizational discipline. It represents a practical tool for businesses seeking to modernize their human resources processes and ensure transparent time management practices.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>WinForms • SQL Server 2000 • .NET 2.x • C#</span></div>",
+                            "tags": ["Employee Attendance", "Check-In/Check-Out Control", "Time Tracking", "HR Administration", "Administrative Efficiency"]
+                        },
+                        "es": {
+                            "title": "XPESD-Checador",
+                            "description": "<p><strong>XPESD-Checador</strong> fue desarrollado para proporcionar a las organizaciones una solución confiable para rastrear la asistencia de empleados. El sistema registra tiempos de entrada y salida, asegurando un monitoreo preciso de horas de trabajo y presencia del personal. Su propósito es simplificar tareas administrativas, reducir errores manuales y mantener registros precisos de horarios de empleados.</p><p>La aplicación enfatiza la eficiencia y responsabilidad. Al automatizar el control de asistencia, XPESD-Checador permite a los gerentes supervisar la puntualidad de la fuerza laboral, generar reportes útiles y mejorar la disciplina organizacional general. Representa una herramienta práctica para empresas que buscan modernizar sus procesos de recursos humanos y asegurar prácticas transparentes de gestión del tiempo.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>WinForms • SQL Server 2000 • .NET 2.x • C#</span></div>",
+                            "tags": ["Asistencia de Empleados", "Control de Entrada/Salida", "Seguimiento del Tiempo", "Administración RH", "Eficiencia Administrativa"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 11,
+                    "img": "/images/Pictures/portfolio/corporate.jpg",
+                    "category": "websites",
+                    "locales": {
+                        "en": {
+                            "title": "XPESD Corporate Site",
+                            "description": "<p><strong>XPESD</strong> was created as a professional site to represent enterprise software development activities. The platform serves as a central hub where visitors can learn about the company's services, explore its areas of specialization, and understand the value it delivers to clients. Its purpose is to communicate expertise, highlight solutions, and establish a clear digital presence for the organization.</p><p>The application emphasizes accessibility and corporate identity. By presenting information on employment, assistance, and organizational resources, XPESD strengthens engagement with clients and partners while offering a transparent view of the company's operations. It represents a practical tool for enterprises seeking to consolidate their digital image, promote their software development capabilities, and maintain a professional online presence.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>HTML • CSS • JavaScript</span></div>",
+                            "tags": ["Corporate Web Platform", "Organizational Identity", "Company Representation", "Digital Presence", "Client Engagement"]
+                        },
+                        "es": {
+                            "title": "XPESD Corporate Site",
+                            "description": "<p><strong>XPESD</strong> fue creado como un sitio profesional para representar actividades de desarrollo de software empresarial. La plataforma sirve como centro donde los visitantes pueden aprender sobre los servicios de la empresa, explorar sus áreas de especialización y entender el valor que entrega a los clientes. Su propósito es comunicar experiencia, destacar soluciones y establecer una presencia digital clara para la organización.</p><p>La aplicación enfatiza la accesibilidad e identidad corporativa. Al presentar información sobre empleo, asistencia y recursos organizacionales, XPESD fortalece el compromiso con clientes y socios mientras ofrece una vista transparente de las operaciones de la empresa. Representa una herramienta práctica para empresas que buscan consolidar su imagen digital, promover sus capacidades de desarrollo de software y mantener una presencia en línea profesional.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>HTML • CSS • JavaScript</span></div>",
+                            "tags": ["Plataforma Web Corporativa", "Identidad Organizacional", "Representación Empresarial", "Presencia Digital", "Compromiso con Clientes"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 12,
+                    "img": "/images/Pictures/portfolio/cost.jpg",
+                    "category": "apps",
+                    "locales": {
+                        "en": {
+                            "title": "Hermes-Cost",
+                            "description": "<p><strong>Hermes-Cost</strong> was developed to provide organizations with a structured solution for calculating production costs over a defined quarterly period. The system centralizes financial data, tracks expenses, and generates cost estimates, offering managers a clear view of the resources required to execute a business plan. Its purpose is to improve accuracy in budgeting, reduce manual errors, and support informed decision-making.</p><p>The application emphasizes financial control and planning. By integrating production data with cost analysis, Hermes-Cost enables businesses to forecast expenses, evaluate profitability, and align operational strategies with financial goals. It represents a practical tool for companies seeking to strengthen their budgeting processes, optimize resource allocation, and maintain transparency in quarterly planning.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Infragistics Suite Control • Crystal Reports 8.0 • iTextPDF</span></div>",
+                            "tags": ["Production Cost Calculation", "Business Planning", "Quarterly Budgeting", "Financial Control", "Expense Tracking", "Profitability Analysis", "Operational Efficiency"]
+                        },
+                        "es": {
+                            "title": "Hermes-Cost",
+                            "description": "<p><strong>Hermes-Cost</strong> fue desarrollado para proporcionar a las organizaciones una solución estructurada para calcular costos de producción durante un período trimestral definido. El sistema centraliza datos financieros, rastrea gastos y genera estimaciones de costos, ofreciendo a los gerentes una vista clara de los recursos requeridos para ejecutar un plan de negocios. Su propósito es mejorar la precisión en la presupuestación, reducir errores manuales y apoyar la toma de decisiones informada.</p><p>La aplicación enfatiza el control financiero y planificación. Al integrar datos de producción con análisis de costos, Hermes-Cost permite a las empresas pronosticar gastos, evaluar rentabilidad y alinear estrategias operacionales con objetivos financieros. Representa una herramienta práctica para empresas que buscan fortalecer sus procesos de presupuestación, optimizar la asignación de recursos y mantener transparencia en la planificación trimestral.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Visual Basic 6.0 • SQL Server 2000 • Infragistics Suite Control • Crystal Reports 8.0 • iTextPDF</span></div>",
+                            "tags": ["Cálculo de Costos de Producción", "Planificación de Negocios", "Presupuestación Trimestral", "Control Financiero", "Seguimiento de Gastos", "Análisis de Rentabilidad", "Eficiencia Operacional"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 13,
+                    "img": "/images/Pictures/portfolio/automated.jpg",
+                    "category": "apps",
+                    "locales": {
+                        "en": {
+                            "title": "XPESD-Automated",
+                            "description": "<p><strong>XPESD-Automated</strong> was developed to implement a fully integrated continuous integration environment, providing organizations with a streamlined approach to software development and deployment. The system automates build, test, and release processes, ensuring consistency and reliability across projects. Its purpose is to reduce manual intervention, accelerate delivery cycles, and maintain high-quality standards in enterprise software development.</p><p>The application emphasizes interactivity and innovation. By linking continuous integration workflows with phidgets components, XPESD-Automated introduces a tangible, interactive dimension to the automation process. This integration allows users to visualize and engage with system operations in real time, making the development pipeline more transparent and dynamic. It represents a forward-thinking solution for enterprises seeking to modernize their software practices while fostering a more engaging and responsive development environment.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Windows Service • .NET 3.5 • C# • C++</span></div>",
+                            "tags": ["Automated Workflow", "Interactive Systems", "Phidgets Integration", "Quality Assurance", "Innovation in Development"]
+                        },
+                        "es": {
+                            "title": "XPESD-Automated",
+                            "description": "<p><strong>XPESD-Automated</strong> fue desarrollado para implementar un entorno de integración continua completamente integrado, proporcionando a las organizaciones un enfoque optimizado para el desarrollo y despliegue de software. El sistema automatiza procesos de compilación, prueba y liberación, asegurando consistencia y confiabilidad en todos los proyectos. Su propósito es reducir la intervención manual, acelerar los ciclos de entrega y mantener estándares de alta calidad en el desarrollo de software empresarial.</p><p>La aplicación enfatiza la interactividad e innovación. Al vincular flujos de trabajo de integración continua con componentes phidgets, XPESD-Automated introduce una dimensión tangible e interactiva al proceso de automatización. Esta integración permite a los usuarios visualizar e interactuar con las operaciones del sistema en tiempo real, haciendo el flujo de desarrollo más transparente y dinámico. Representa una solución innovadora para empresas que buscan modernizar sus prácticas de software mientras fomentan un entorno de desarrollo más atractivo y receptivo.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Windows Service • .NET 3.5 • C# • C++</span></div>",
+                            "tags": ["Flujo de Trabajo Automatizado", "Sistemas Interactivos", "Integración de Phidgets", "Aseguramiento de Calidad", "Innovación en Desarrollo"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 14,
+                    "img": "/images/Pictures/portfolio/cede.jpg",
+                    "category": "mobile",
+                    "locales": {
+                        "en": {
+                            "title": "CEDE",
+                            "description": "<p><strong>CEDE</strong> was developed to support educational environments by offering a mobile solution for applying quizzes to students. The application allows instructors to create, assign, and manage quizzes directly through the Android platform, making assessments more accessible and efficient. Its purpose is to simplify the evaluation process, reduce reliance on paper-based methods, and provide immediate feedback to learners.</p><p>The system emphasizes interactivity and convenience. By delivering quizzes through a mobile interface, CEDE enables students to engage with assessments anytime and anywhere, while teachers can track performance and maintain historical records of results. It represents a practical tool for modern classrooms, enhancing both teaching effectiveness and student participation through digital assessment methods.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Android • Java • MySQL • Web Services</span></div>",
+                            "tags": ["Educational Technology", "Mobile Learning", "Student Assessment", "Quiz Application", "Interactive Learning", "Academic Evaluation"]
+                        },
+                        "es": {
+                            "title": "CEDE",
+                            "description": "<p><strong>CEDE</strong> fue desarrollado para apoyar entornos educativos ofreciendo una solución móvil para aplicar cuestionarios a los estudiantes. La aplicación permite a los instructores crear, asignar y gestionar cuestionarios directamente a través de la plataforma Android, haciendo las evaluaciones más accesibles y eficientes. Su propósito es simplificar el proceso de evaluación, reducir la dependencia de métodos basados en papel y proporcionar retroalimentación inmediata a los estudiantes.</p><p>El sistema enfatiza la interactividad y conveniencia. Al entregar cuestionarios a través de una interfaz móvil, CEDE permite a los estudiantes participar en evaluaciones en cualquier momento y lugar, mientras que los maestros pueden rastrear el rendimiento y mantener registros históricos de resultados. Representa una herramienta práctica para aulas modernas, mejorando tanto la efectividad de la enseñanza como la participación estudiantil a través de métodos de evaluación digital.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Android • Java • MySQL • Web Services</span></div>",
+                            "tags": ["Tecnología Educativa", "Aprendizaje Móvil", "Evaluación Estudiantil", "Aplicación de Cuestionarios", "Aprendizaje Interactivo", "Evaluación Académica"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 15,
+                    "img": "/images/Pictures/portfolio/cetys.jpg",
+                    "category": "mobile",
+                    "locales": {
+                        "en": {
+                            "title": "Cetys Mobile",
+                            "description": "<p><strong>Cetys Mobile</strong> was developed to provide a modern platform for enhancing the university experience through mobile devices. The application centralizes essential services such as academic information, administrative tools, and student resources, making them accessible anytime and anywhere. Its purpose is to improve communication, streamline processes, and ensure that the university community can interact with institutional services more efficiently.</p><p>The system emphasizes accessibility and integration. By extending university services to mobile devices, Cetys Mobile empowers students and staff to manage tasks such as checking schedules, requesting assistance, and accessing relevant information in a seamless way. It represents a practical step toward digital transformation in education, strengthening engagement and productivity across the academic environment.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Ionic • .NET • C# • TypeScript • HTML5 • Bootstrap</span></div>",
+                            "tags": ["University Services", "Mobile Access", "Academic Resources", "Student Engagement", "Administrative Tools", "Academic Management"]
+                        },
+                        "es": {
+                            "title": "Cetys Mobile",
+                            "description": "<p><strong>Cetys Mobile</strong> fue desarrollado para proporcionar una plataforma moderna que mejora la experiencia universitaria a través de dispositivos móviles. La aplicación centraliza servicios esenciales como información académica, herramientas administrativas y recursos estudiantiles, haciéndolos accesibles en cualquier momento y lugar. Su propósito es mejorar la comunicación, optimizar procesos y asegurar que la comunidad universitaria pueda interactuar con los servicios institucionales de manera más eficiente.</p><p>El sistema enfatiza la accesibilidad e integración. Al extender los servicios universitarios a dispositivos móviles, Cetys Mobile empodera a estudiantes y personal para gestionar tareas como verificar horarios, solicitar asistencia y acceder a información relevante de manera fluida. Representa un paso práctico hacia la transformación digital en educación, fortaleciendo el compromiso y productividad en todo el entorno académico.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Ionic • .NET • C# • TypeScript • HTML5 • Bootstrap</span></div>",
+                            "tags": ["Servicios Universitarios", "Acceso Móvil", "Recursos Académicos", "Compromiso Estudiantil", "Herramientas Administrativas", "Gestión Académica"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 16,
+                    "img": "/images/Pictures/portfolio/menuhunter.jpg",
+                    "category": "mobile",
+                    "locales": {
+                        "en": {
+                            "title": "MenuHunter",
+                            "description": "<p><strong>MenuHunter</strong> was developed to provide a practical solution for discovering restaurants based on user preferences. The application allows individuals to search and filter dining options by criteria such as cuisine type, location, or specific features, making the process of choosing where to eat more efficient and enjoyable. Its purpose is to simplify restaurant discovery and enhance the dining experience by offering tailored recommendations.</p><p>The system emphasizes accessibility and personalization. By integrating multiple search criteria, MenuHunter enables users to quickly identify restaurants that match their tastes and needs, while also promoting exploration of new dining experiences. It represents a useful tool for food enthusiasts and everyday users alike, combining convenience with flexibility to improve how people interact with local dining options.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Android • Java • SQL Server • .NET</span></div>",
+                            "tags": ["Restaurant Finder", "Dining Options", "Food Discovery", "Restaurant Search", "Personalized Recommendations", "Mobile Application", "Lifestyle Tools"]
+                        },
+                        "es": {
+                            "title": "MenuHunter",
+                            "description": "<p><strong>MenuHunter</strong> fue desarrollado para proporcionar una solución práctica para descubrir restaurantes basada en preferencias del usuario. La aplicación permite a los individuos buscar y filtrar opciones gastronómicas por criterios como tipo de cocina, ubicación o características específicas, haciendo el proceso de elegir dónde comer más eficiente y agradable. Su propósito es simplificar el descubrimiento de restaurantes y mejorar la experiencia gastronómica ofreciendo recomendaciones personalizadas.</p><p>El sistema enfatiza la accesibilidad y personalización. Al integrar múltiples criterios de búsqueda, MenuHunter permite a los usuarios identificar rápidamente restaurantes que coincidan con sus gustos y necesidades, mientras también promueve la exploración de nuevas experiencias gastronómicas. Representa una herramienta útil tanto para entusiastas de la comida como para usuarios cotidianos, combinando conveniencia con flexibilidad para mejorar cómo las personas interactúan con opciones gastronómicas locales.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Android • Java • SQL Server • .NET</span></div>",
+                            "tags": ["Buscador de Restaurantes", "Opciones Gastronómicas", "Descubrimiento de Comida", "Búsqueda de Restaurantes", "Recomendaciones Personalizadas", "Aplicación Móvil", "Herramientas de Estilo de Vida"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 17,
+                    "img": "/images/Pictures/portfolio/education.jpg",
+                    "category": "websites",
+                    "locales": {
+                        "en": {
+                            "title": "XPESD-Edunet",
+                            "description": "<p><strong>XPESD-Edunet</strong> was developed to enhance the learning experience by offering a mobile-friendly platform where students can access academic content. The application centralizes subject-related information, practice exercises, and sample materials, making it easier for learners to study and engage with their coursework outside the classroom. Its purpose is to improve accessibility, encourage self-learning, and provide a structured environment for academic support.</p><p>The system emphasizes convenience and interactivity. By delivering educational resources through a web-oriented mobile interface, XPESD-Edunet empowers students to review lessons, practice exercises, and explore supplementary materials anytime and anywhere. It represents a practical tool for modern education, supporting both teachers and students in achieving better outcomes through digital learning methods.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Angular • TypeScript • .NET • C# • SQL Server • Entity Framework</span></div>",
+                            "tags": ["Mobile Learning", "Academic Resources", "Subject Information", "Exercises and Samples", "Learning Support", "Interactive Learning"]
+                        },
+                        "es": {
+                            "title": "XPESD-Edunet",
+                            "description": "<p><strong>XPESD-Edunet</strong> fue desarrollado para mejorar la experiencia de aprendizaje ofreciendo una plataforma amigable para móviles donde los estudiantes pueden acceder a contenido académico. La aplicación centraliza información relacionada con materias, ejercicios de práctica y materiales de muestra, facilitando a los estudiantes estudiar y participar con sus cursos fuera del aula. Su propósito es mejorar la accesibilidad, fomentar el autoaprendizaje y proporcionar un entorno estructurado para el apoyo académico.</p><p>El sistema enfatiza la conveniencia e interactividad. Al entregar recursos educativos a través de una interfaz móvil orientada a web, XPESD-Edunet empodera a los estudiantes para revisar lecciones, practicar ejercicios y explorar materiales suplementarios en cualquier momento y lugar. Representa una herramienta práctica para la educación moderna, apoyando tanto a maestros como a estudiantes en lograr mejores resultados a través de métodos de aprendizaje digital.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Angular • TypeScript • .NET • C# • SQL Server • Entity Framework</span></div>",
+                            "tags": ["Aprendizaje Móvil", "Recursos Académicos", "Información de Materias", "Ejercicios y Muestras", "Soporte de Aprendizaje", "Aprendizaje Interactivo"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 18,
+                    "img": "/images/Pictures/portfolio/movilizate.jpg",
+                    "category": "mobile",
+                    "locales": {
+                        "en": {
+                            "title": "Cetys-Mobilízate",
+                            "description": "<p><strong>Cetys-Mobilízate</strong> was developed to provide a dynamic and interactive solution for university environments. The system combines both software and hardware components to serve as an information hub, offering students and staff access to relevant academic and institutional resources. Its purpose is to improve communication, simplify access to services, and create a centralized point for information within the campus.</p><p>The application emphasizes interactivity and engagement. By integrating hardware with a responsive application, Cetys-Mobilízate allows users to interact with university services in real time, whether for schedules, announcements, or general inquiries. It represents a practical step toward modernizing campus infrastructure, fostering a more connected and informed academic community.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Android • Java • SQL Server • .NET</span></div>",
+                            "tags": ["Campus Services", "Student Engagement", "Academic Resources", "Communication Hub", "Institutional Support", "Modern Education Solutions"]
+                        },
+                        "es": {
+                            "title": "Cetys-Mobilízate",
+                            "description": "<p><strong>Cetys-Mobilízate</strong> fue desarrollado para proporcionar una solución dinámica e interactiva para entornos universitarios. El sistema combina componentes de software y hardware para servir como centro de información, ofreciendo a estudiantes y personal acceso a recursos académicos e institucionales relevantes. Su propósito es mejorar la comunicación, simplificar el acceso a servicios y crear un punto centralizado para información dentro del campus.</p><p>La aplicación enfatiza la interactividad y compromiso. Al integrar hardware con una aplicación responsiva, Cetys-Mobilízate permite a los usuarios interactuar con servicios universitarios en tiempo real, ya sea para horarios, anuncios o consultas generales. Representa un paso práctico hacia la modernización de la infraestructura del campus, fomentando una comunidad académica más conectada e informada.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>Android • Java • SQL Server • .NET</span></div>",
+                            "tags": ["Servicios del Campus", "Compromiso Estudiantil", "Recursos Académicos", "Centro de Comunicación", "Soporte Institucional", "Soluciones de Educación Moderna"]
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 19,
+                    "img": "/images/Pictures/portfolio/tictactoe.jpg",
+                    "category": "games",
+                    "locales": {
+                        "en": {
+                            "title": "Tic Tac Toe",
+                            "description": "<div style='display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 6px 16px; border-radius: 20px; font-size: 0.85em; font-weight: bold; margin-bottom: 12px; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);'>🤖 AI-Assisted Development</div><p><strong>Tic Tac Toe</strong> is a classic game reimagined for the web, designed purely for entertainment. Built with JavaScript, CSS, and HTML, this project showcases a simple yet engaging implementation of the traditional game. <strong>This project was developed with AI assistance</strong>, leveraging artificial intelligence to enhance the development process and deliver an improved gaming experience.</p><p>The application emphasizes simplicity and fun. By utilizing modern web technologies and AI-powered development support, Tic Tac Toe demonstrates how traditional games can be brought to life on the web with clean code and interactive design. It represents a practical example of combining classic entertainment with contemporary development practices and AI collaboration.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Tech Stack</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>JavaScript • CSS • HTML</span></div>",
+                            "tags": ["Tic Tac Toe", "Entertainment", "AI Assisted", "Web Game", "Interactive"]
+                        },
+                        "es": {
+                            "title": "Tic Tac Toe",
+                            "description": "<div style='display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 6px 16px; border-radius: 20px; font-size: 0.85em; font-weight: bold; margin-bottom: 12px; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);'>🤖 Desarrollo Asistido por IA</div><p><strong>Tic Tac Toe</strong> es un juego clásico reimaginado para la web, diseñado puramente para entretenimiento. Construido con JavaScript, CSS y HTML, este proyecto muestra una implementación simple pero atractiva del juego tradicional. <strong>Este proyecto fue desarrollado con asistencia de IA</strong>, aprovechando la inteligencia artificial para mejorar el proceso de desarrollo y ofrecer una experiencia de juego mejorada.</p><p>La aplicación enfatiza la simplicidad y diversión. Al utilizar tecnologías web modernas y soporte de desarrollo con IA, Tic Tac Toe demuestra cómo los juegos tradicionales pueden cobrar vida en la web con código limpio y diseño interactivo. Representa un ejemplo práctico de combinar entretenimiento clásico con prácticas de desarrollo contemporáneas y colaboración con IA.</p><div style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 8px; margin-top: 15px; border-left: 4px solid #5a67d8;'><strong style='color: #fff; font-size: 1.1em;'>🛠️ Stack Tecnológico</strong><br/><span style='color: #f0f0f0; line-height: 1.8;'>JavaScript • CSS • HTML</span></div>",
+                            "tags": ["Tic Tac Toe", "Entretenimiento", "Asistido por IA", "Juego Web", "Interactivo"]
+                        }
+                    },
+                    "links": []
+                }
+            ]
+
+        }
+
+    ]
+
+}
