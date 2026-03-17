@@ -1,0 +1,38 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleContactForm",
+            "locales": {
+                "en": {
+                    "contact_thank_you": "*Thanks* for the contact!",
+                    "contact_thank_you_description": "Your message has been received, and I'll be reaching out to you soon. I appreciate your time and look forward to connecting with you!",
+                    "contact_thank_you_reply": "The reply will be sent to your email address *{email}*."
+                },
+                "es": {
+                    "contact_thank_you": "*¡Gracias* por contactar!",
+                    "contact_thank_you_description": "Tu mensaje ha sido recibido y me pondré en contacto contigo pronto. Aprecio tu tiempo y espero poder conectar contigo.",
+                    "contact_thank_you_reply": "Mi respuesta será enviada a tu correo electrónico *{email}*."
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_js_public_key": "BL_IyjZWufTobzX69",
+                "contact_js_service_id": "service_07gld0m",
+                "contact_js_template_id": "template_lvcvyyr"
+            },
+            "items": null
+        },
+        {
+            "id": 2,
+            "component": "ArticleContactOptions",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_ids": ["address","phone", "email","linkedin", "pdf-short-version", "pdf-full-version" ]
+            },
+            "items": null
+        }
+    ]
+}

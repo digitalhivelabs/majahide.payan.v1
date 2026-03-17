@@ -1,0 +1,436 @@
+{
+    "articles": [
+        {
+            "id":1,
+            "component": "ArticleThread",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "en": {
+                    "title": "Awards and Recognitions"
+                },
+                "es": {
+                    "title": "Premios y Reconocimientos"
+                }
+            },
+            "items": [
+                {
+                    "id": 2,
+                    "dateStart": { "year": 2024, "month": 0 },
+                    "locales": {
+                        "en": {
+                            
+                            "title": "Innovation in Modular Design",
+                            "institution": "Kaktos",
+                            "description": "Recognized for pioneering modular scripting and workflow automation frameworks that streamlined IoT and digital branding projects at MexaTronix."
+                        },
+                        "es": {
+                            "title": "Innovación en Diseño Modular",
+                            "institution": "Kaktos",
+                            "description": "Reconocido por la creación de frameworks de scripting modular y automatización de flujos de trabajo que optimizaron proyectos IoT y branding digital en MexaTronix."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": { "year": 2024, "month": 0 },
+                    "locales": {
+                        "en": {
+                            "title": "Technical Leadership",
+                            "institution": "Softtek - Broadcom, Barco, Sigue",
+                            "description": "Commended for resolving complex issues by enforcing strong typing and consistent control structures, ensuring scalable and reliable applications."
+                        },
+                        "es": {
+                            "title": "Liderazgo Técnico",
+                            "institution": "Softtek - Broadcom, Barco, Sigue",
+                            "description": "Reconocido por resolver problemas complejos aplicando tipado fuerte y estructuras de control consistentes, garantizando aplicaciones escalables y confiables."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": { "year": 2024, "month": 0 },
+                    "locales": {
+                        "en": {
+                            "title": "Practical Empowerment Award",
+                            "institution": "IR (International Rectifiers)",
+                            "description": "Celebrated for applying modular thinking to everyday logistics, enabling autonomous and efficient solutions in both professional and personal contexts."
+                        },
+                        "es": {
+                            "title": "Premio de Empoderamiento Práctico",
+                            "institution": "IR (International Rectifiers)",
+                            "description": "Celebrado por aplicar pensamiento modular a la logística diaria, permitiendo soluciones autónomas y eficientes en contextos profesionales y personales."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": { "year": 2022, "month": 0 },
+                    "fallbackFaIcon": "fa-solid fa-file-pdf",
+                    "locales": {
+                        "en": {
+                            "title": "Emprendimiento y educacion en mexico: diversos enfoques en la construccion de ecosistemas",
+                            "institution": "Cetys Universidad",
+                            "description": "Co-author of the book, chapter 5, I put some extrac of my PH tesis."
+                        },
+                        "es": {
+                            "title": "Emprendimiento y educación en México: diversos enfoques en la construcción de ecosistemas",
+                            "institution": "Cetys Universidad",
+                            "description": "Coautor del libro, capítulo 5, incluí extractos de mi tesis de doctorado."
+                        }
+                    },
+                    "links": [
+                        { "stringKey": "view_more_info", "href": "https://www.researchgate.net/publication/358334948_Emprendimiento_y_educacion_superior_en_Mexico_diversos_enfoques_en_la_construccion_de_ecosistemas"}
+                    ]
+                }
+            ]
+        },
+        {
+            "id":2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {
+                    "title": "On-line Trainings",
+                    "description": "I have completed online trainings that enhanced my technical and administrative skills, supporting my professional growth and adaptability to new tools."
+                },
+                "es": {
+                    "title": "Capacitaciones en línea",
+                    "description": "He completado capacitaciones en línea que mejoraron mis habilidades técnicas y administrativas, apoyando mi crecimiento profesional y adaptabilidad a nuevas herramientas."
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 20,
+                    "dateStart": {"year": 2026, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-award",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Vue.js 3 Composition Pinia MEVN 10 apps",
+                            "institution": "Udemy",
+                            "description": "Hands-on course building 10 real apps using Vue 3, Composition API, Pinia and MEVN stack."
+                        },
+                        "es": {
+                            "title": "Vue.js 3 Composition Pinia MEVN 10 apps",
+                            "institution": "Udemy",
+                            "description": "Curso práctico creando 10 apps reales con Vue 3, Composition API, Pinia y MEVN."
+                        }
+                    }
+                },
+                {
+                    "id": 19,
+                    "dateStart": {"year": 2026, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-award",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Vue.js: From cero to expert",
+                            "institution": "Udemy",
+                            "description": "Complete journey from basics to advanced Vue.js development in a single course."
+                        },
+                        "es": {
+                            "title": "Vue.js: From cero to expert",
+                            "institution": "Udemy",
+                            "description": "Recorrido completo desde lo básico hasta desarrollo avanzado en Vue.js."
+                        }
+                    }
+                },
+                {
+                    "id": 18,
+                    "dateStart": {"year": 2025, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-microchip",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Learn to program ESP32",
+                            "institution": "Udemy",
+                            "description": "Practical ESP32 programming course with hands-on examples and IoT projects."
+                        },
+                        "es": {
+                            "title": "Learn to program ESP32",
+                            "institution": "Udemy",
+                            "description": "Curso práctico de programación ESP32 con ejemplos y proyectos IoT."
+                        }
+                    }
+                },
+                {
+                    "id": 17,
+                    "dateStart": {"year": 2024, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-robot",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Learn Microsoft Bot Framework",
+                            "institution": "Udemy",
+                            "description": "Build intelligent bots using Microsoft Bot Framework and Azure services."
+                        },
+                        "es": {
+                            "title": "Learn Microsoft Bot Framework",
+                            "institution": "Udemy",
+                            "description": "Construye bots inteligentes con Microsoft Bot Framework y servicios de Azure."
+                        }
+                    }
+                },
+                {
+                    "id": 16,
+                    "dateStart": {"year": 2023, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Build an app with ASPNET Core and Angular from scratch",
+                            "institution": "Udemy",
+                            "description": "Reinforced concepts in Angular and ASP.NET Core while building a full-stack application."
+                        },
+                        "es": {
+                            "title": "Build an app with ASPNET Core and Angular from scratch",
+                            "institution": "Udemy",
+                            "description": "Refuerza conceptos de Angular y ASP.NET Core construyendo una aplicación full-stack."
+                        }
+                    }
+                },
+                {
+                    "id": 15,
+                    "dateStart": {"year": 2012, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-chalkboard",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Windows 8",
+                            "institution": "Capacitacion TI",
+                            "description": "Online course with homework tracking. Certificate evidence: Yes."
+                        },
+                        "es": {
+                            "title": "Windows 8",
+                            "institution": "Capacitacion TI",
+                            "description": "Curso en línea con seguimiento de tareas. Certificado disponible: Sí."
+                        }
+                    }
+                },
+                {
+                    "id": 14,
+                    "dateStart": {"year": 2011, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-mobile-screen",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Windows Phone 7",
+                            "institution": "Capacitacion TI",
+                            "description": "Online course with homework tracking. Certificate evidence: Yes."
+                        },
+                        "es": {
+                            "title": "Windows Phone 7",
+                            "institution": "Capacitacion TI",
+                            "description": "Curso en línea con seguimiento de tareas. Certificado disponible: Sí."
+                        }
+                    }
+                },
+                {
+                    "id": 13,
+                    "dateStart": {"year": 2011, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "HTML 5",
+                            "institution": "Capacitacion TI",
+                            "description": "Online course with homework tracking. Certificate evidence: Yes."
+                        },
+                        "es": {
+                            "title": "HTML 5",
+                            "institution": "Capacitacion TI",
+                            "description": "Curso en línea con seguimiento de tareas. Certificado disponible: Sí."
+                        }
+                    }
+                },
+                {
+                    "id": 12,
+                    "dateStart": {"year": 2011, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-cloud",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Cloud Computing (Basic)",
+                            "institution": "Capacitacion TI",
+                            "description": "Online course with homework tracking. Certificate evidence: Yes."
+                        },
+                        "es": {
+                            "title": "Cloud Computing (Basic)",
+                            "institution": "Capacitacion TI",
+                            "description": "Curso en línea con seguimiento de tareas. Certificado disponible: Sí."
+                        }
+                    }
+                },
+                {
+                    "id": 11,
+                    "dateStart": {"year": 2004, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Coursing the ASP.Net (C# tracking)",
+                            "institution": "Classroom - UCSD",
+                            "description": "Certifications at the UCSD path. Certificate evidence: Yes, letter degree."
+                        },
+                        "es": {
+                            "title": "Coursing the ASP.Net (C# tracking)",
+                            "institution": "Classroom - UCSD",
+                            "description": "Certificaciones en el camino UCSD. Evidencia de certificado: Sí, carta/constancia."
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "dateStart": {"year": 2003, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-network-wired",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "IR Internal courses: Client Server Architecture",
+                            "institution": "IR, Tijuana",
+                            "description": "Internal training on client-server architecture."
+                        },
+                        "es": {
+                            "title": "IR Internal courses: Client Server Architecture",
+                            "institution": "IR, Tijuana",
+                            "description": "Capacitación interna sobre arquitectura cliente-servidor."
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "dateStart": {"year": 2001, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-window-maximize",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Visual Basic Fundamentals",
+                            "institution": "New Horizonts, Tijuana, ClassRoom",
+                            "description": "Certificate evidence: Yes."
+                        },
+                        "es": {
+                            "title": "Visual Basic Fundamentals",
+                            "institution": "New Horizonts, Tijuana, ClassRoom",
+                            "description": "Evidencia de certificado: Sí."
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "dateStart": {"year": 2001, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-window-maximize",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Visual Basic II",
+                            "institution": "New Horizonts, Tijuana, ClassRoom",
+                            "description": "Certificate evidence: Yes."
+                        },
+                        "es": {
+                            "title": "Visual Basic II",
+                            "institution": "New Horizonts, Tijuana, ClassRoom",
+                            "description": "Evidencia de certificado: Sí."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "dateStart": {"year": 2001, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "SQL Server 2000",
+                            "institution": "New Horizonts, Tijuana, ClassRoom",
+                            "description": "Certificate evidence: Yes."
+                        },
+                        "es": {
+                            "title": "SQL Server 2000",
+                            "institution": "New Horizonts, Tijuana, ClassRoom",
+                            "description": "Evidencia de certificado: Sí."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2004, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "ASP.Net I",
+                            "institution": "Classroom - UCSD",
+                            "description": ""
+                        },
+                        "es": {
+                            "title": "ASP.Net I",
+                            "institution": "Classroom - UCSD",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2004, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "ASP.Net II",
+                            "institution": "Classroom - UCSD",
+                            "description": ""
+                        },
+                        "es": {
+                            "title": "ASP.Net II",
+                            "institution": "Classroom - UCSD",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2004, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-pen-nib",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Adobe Web Design",
+                            "institution": "Classroom - UCSD",
+                            "description": ""
+                        },
+                        "es": {
+                            "title": "Adobe Web Design",
+                            "institution": "Classroom - UCSD",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2004, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-code-branch",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": ".Net Patterns",
+                            "institution": "Classroom - UCSD",
+                            "description": ""
+                        },
+                        "es": {
+                            "title": ".Net Patterns",
+                            "institution": "Classroom - UCSD",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        }
+
+    ]
+}

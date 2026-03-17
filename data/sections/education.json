@@ -1,0 +1,150 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2018, "month": 6},
+                    "dateEnd": {"year": 2023, "month": 11},
+                    "img": "images/Pictures/cetys_logo.jpg",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Ph.D. in Education, <i>Values Concentration</i>",
+                            "institution": "Centro de Enseñanza Tecnica y Superior",
+                            "provice": "Ensenada",
+                            "country": "Mexico",
+                            "description": "<strong>develops researchers and academic leaders committed to strengthening ethical principles and human values in educational contexts.</strong> It focuses on generating knowledge, designing strategies, and promoting innovation that integrates values into teaching, learning, and institutional development.",
+                            "list": {
+                                "title": "",
+                                "items": []
+                            },
+                            "tags": ["Applied Research in Education", "Educational Innovation", "Values-Based Pedagogy", "Ethics in Education", "Educational Leadership"]
+                        },
+                        "es": {
+                            "title": "Doctorado en Educación, <i>Concentración en Valores</i>",
+                            "institution": "Centro de Enseñanza Tecnica y Superior",
+                            "provice": "Ensenada",
+                            "country": "éxico",
+                            "description": "<strong>Desarrolla investigadores y líderes académicos comprometidos con el fortalecimiento de los principios éticos y los valores humanos en los contextos educativos.</strong> Se centra en generar conocimiento, diseñar estrategias y promover la innovación que integra los valores en la enseñanza, el aprendizaje y el desarrollo institucional.",
+                            "list": {
+                                "title": "",
+                                "items": []
+                            },
+                            "tags": ["Investigación Aplicada en Educación", "Innovación Educativa", "Pedagogía Basada en Valores", "Ética en la Educación", "Liderazgo Educativo"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2009, "month": 6},
+                    "dateEnd": {"year": 2011, "month": 11},
+                    "img": "images/Pictures/cetys_logo.jpg",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Master of Science in Engineering:<i> Concentration in Distributed Systems</i>",
+                            "institution": "Centro de Enseñanza Tecnica y Superior",
+                            "provice": "Ensenada",
+                            "country": "Mexico",
+                            "description": "<strong>Trains engineers to design, analyze, and implement advanced distributed computing solutions.</strong> It emphasizes applied research, flexible specialization, and the ability to solve complex technological problems across industries.",
+                            "list": {
+                                "title": "",
+                                "items": []
+                            },
+                            "tags": [".NET", "C#", "Java", "MVC", "STRUTS", "Windows Phone", "Android"]
+                        },
+                        "es": {
+                            "title": "Maestría en Ciencias en Ingeniería:<i> Concentración en Sistemas Distribuidos</i>",
+                            "institution": "Centro de Enseñanza Tecnica y Superior",
+                            "provice": "Ensenada",
+                            "country": "Mexico",
+                            "description": "<strong>Forma ingenieros para diseñar, analizar e implementar soluciones avanzadas de computación distribuida.</strong> Se enfatiza la investigación aplicada, la especialización flexible y la capacidad de resolver problemas tecnológicos complejos en diversas industrias.",
+                            "list": {
+                                "title": "",
+                                "items": []
+                            },
+                            "tags": [".NET", "C#", "Java", "MVC", "STRUTS", "Windows Phone", "Android"]
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2000, "month": 6},
+                    "dateEnd": {"year": 2007, "month": 11},
+                    "img": "images/Pictures/uabcv2_logo.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor’s Degree in Informatics",
+                            "institution": "Universidad Autonoma de Baja California",
+                            "provice": "Tijuana",
+                            "country": "Mexico",
+                            "description": "<strong>Prepares professionals to analyze, develop, and implement IT projects for managing and leveraging information within organizations. </strong>It emphasizes Information and Communication Technologies (ICT), technological innovation, and the commercialization of IT products and services, addressing the needs of both public and private sectors.",
+                            "list": {
+                                "title": "",
+                                "items": []
+                            },
+                            "tags": ["Visual Basic", "Java", ".Net", "SQL-Server", "Linux"]
+                        },
+                        "es": {
+                            "title": "Lic. Informática",
+                            "institution": "Universidad Autonoma de Baja California",
+                            "provice": "Tijuana",
+                            "country": "Mexico",
+                            "description": "<strong>Prepara a los profesionales para analizar, desarrollar e implementar proyectos de TI para gestionar y aprovechar la información dentro de las organizaciones. </strong>Se enfatiza en las Tecnologías de la Información y la Comunicación (TIC), la innovación tecnológica y la comercialización de productos y servicios de TI, abordando las necesidades de los sectores público y privado.",
+                            "list": {
+                                "title": "",
+                                "items": []
+                            },
+                            "tags": ["Visual Basic", "Java", ".Net", "SQL-Server", "Linux"]
+                        }
+                    }
+                },
+                {
+                    "id": 0,
+                    "dateStart": {"year": 1994, "month": 6},
+                    "dateEnd": {"year": 1998, "month": 11},
+                    "img": "images/Pictures/itt_logo.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": "",
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor’s Degree in Informatics",
+                            "institution": "Instituto Tecnológico de Tijuana",
+                            "provice": "Tijuana",
+                            "country": "Mexico",
+                            "description": "<strong>The Bachelor’s Degree in Informatics at the Instituto Tecnológico de Tijuana trains professionals capable of designing, implementing, and managing computer systems to solve technological problems within organizations.</strong> It focuses on the study of software, hardware, and digital tools, preparing students to meet the high labor demand in the field of informatics.",
+                            "list": {
+                                "title": "",
+                                "items": []
+                            },
+                            "tags": ["C", "C++", "Assembler", "FoxPro", "DBase", "Delphi", "Cobol"]
+                        },
+                        "es": {
+                            "title": "Lic. Informática",
+                            "institution": "Instituto Tecnológico de Tijuana",
+                            "provice": "Tijuana",
+                            "country": "Mexico",
+                            "description": "<strong>La Licenciatura en Informática en el Instituto Tecnológico de Tijuana forma profesionales capaces de diseñar, implementar y gestionar sistemas informáticos para resolver problemas tecnológicos dentro de las organizaciones.</strong> Se enfoca en el estudio de software, hardware y herramientas digitales, preparando a los estudiantes para satisfacer la alta demanda laboral en el campo de la informática.",
+                            "list": {
+                                "title": "",
+                                "items": []
+                            },
+                            "tags": ["C", "C++", "Assembler", "FoxPro", "DBase", "Delphi", "Cobol"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

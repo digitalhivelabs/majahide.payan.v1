@@ -1,0 +1,172 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/about.json", 
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Welcome to <span class='text-primary'>My Resume!</span>",
+                    "title_short": "Welcome! :)",
+                    "description": null,
+                    "nav_label": "About"
+                },
+                "es": {
+                    "title": "¡Bienvenido a <span class='text-primary'>mi CV!</span>",
+                    "title_short": "¡Bienvenido! :)",
+                    "description": null,
+                    "nav_label": "Acerca de"
+                }
+            }
+        },
+        {
+            "id": "education",
+            "categoryId": "home",
+            "jsonPath": "/sections/education.json", 
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Education",
+                    "title_short": "",
+                    "description": "A glimpse into my academic foundation and lifelong pursuit of innovation, from IT Technology to a PhD in Education.",
+                    "nav_label": "Education"
+                },
+                "es": {
+                    "title": "Educación",
+                    "title_short": "",
+                    "description": "Una mirada a mi formación académica y mi búsqueda de innovación de por vida, desde Tecnología de la Información hasta un Doctorado en Educación.",
+                    "nav_label": "Educación"
+                }
+            }
+        },
+        {
+            "id": "skills",
+            "categoryId": "background",
+            "jsonPath": "/sections/skills.json", 
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "<span class='text-primary'>Skill</span> set",
+                    "title_short": "",
+                    "description": "Modular design, workflow automation, creative prototyping, asset management for web games, and scalable SaaS architecture.",
+                    "nav_label": "Skills"
+                },
+                "es": {
+                    "title": "Habilidades",
+                    "title_short": "Habilidades cortas...",
+                    "description": "Descripción de las habilidades...",
+                    "nav_label": "Habilidades"
+                }
+            }
+        },
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json", 
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Experience",
+                    "title_short": "",
+                    "description": "An overview of my professional journey and achievements.",
+                    "nav_label": "Experience"
+                },
+                "es": {
+                    "title": "Experiencia",
+                    "title_short": "",
+                    "description": "Un recorrido por mi experiencia laboral y trayectoria profesional.",
+                    "nav_label": "Experiencia"
+                }
+            }
+        },
+        {
+            "id": "portfolio",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/portfolio.json", 
+            "faIcon": "fa-solid fa-folder-open",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Portfolio",
+                    "title_short": "",
+                    "description": "Explore a selection of my recent projects and creative works.",
+                    "nav_label": "Portfolio"
+                },
+                "es": {
+                    "title": "Portafolio",
+                    "title_short": "",
+                    "description": "Explora una selección de mis proyectos recientes y trabajos creativos.",
+                    "nav_label": "Portafolio"
+                }
+            }
+        },
+        {
+            "id": "achievements",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/publications.json", 
+            "faIcon": "fa-solid fa-trophy",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Achievements",
+                    "title_short": "",
+                    "description": "My career achievements reflect a path defined by innovation, excellence, and the ability to transform ideas into tangible results.",
+                    "nav_label": "Achievements"
+                },
+                "es": {
+                    "title": "Logros",
+                    "title_short": "",
+                    "description": "Mis logros profesionales reflejan una trayectoria marcada por la innovación, la excelencia y la capacidad de transformar ideas en resultados tangibles.",
+                    "nav_label": "Logros"
+                }
+            }
+        },
+        {
+            "id": "hobbies",
+            "categoryId": "more",
+            "jsonPath": "/sections/hobbies.json", 
+            "faIcon": "fa-solid fa-heart",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Hobbies",
+                    "title_short": "",
+                    "description": "Some of my favorite pastimes include outdoor activities and crafting.",
+                    "nav_label": "Hobbies"
+                },
+                "es": {
+                    "title": "Pasatiempos",
+                    "title_short": "",
+                    "description": "Algunos de mis pasatiempos favoritos incluyen actividades al aire libre y manualidades.",
+                    "nav_label": "Pasatiempos"
+                }
+            }
+        },
+        {
+            "id": "contact",
+            "categoryId": "more",
+            "jsonPath": "/sections/contact.json", 
+            "faIcon": "fa-solid fa-envelope",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Contact",
+                    "title_short": "",
+                    "description": "Feel free to reach out to me anytime you need.",
+                    "nav_label": "Contact"
+                },
+                "es": {
+                    "title": "Contacto",
+                    "title_short": "",
+                    "description": "No dudes en contactarme en cualquier momento que lo necesites.",
+                    "nav_label": "Contacto"
+                }
+            }
+        }
+    ]
+}

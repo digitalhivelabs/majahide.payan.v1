@@ -1,0 +1,983 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 7,
+                    "dateStart": {"year": 2002, "month": 3},
+                    "dateEnd": {"year": 2004, "month": 7},
+                    "img": "images/Pictures/logos/ir.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Visual Basic Developer",
+                            "description": "Designed and developed software components, Oracle packages, and QA systems; led data migration and synchronization efforts across systems.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Designed and developed software components, Oracle packages, security systems, and the first framework version; developed a QA system from conception to production deployment.",
+                                    "Created a logical batch process to synchronize data between MM3000 files and HPs to Oracle; developed the first Data Services layer.",
+                                    "Participated in migration from the Hermes system to Visio account software to cost products in stock, process, and distribution.",
+                                    "Created P-SQL scripts for data migrations according to new system interface definitions.",
+                                    "Built a full touch-screen QA application for production lines; deployed to 7 lines for semiconductor lot inspection with an intuitive interface."
+                                ]
+                            },
+                            "province": "Rosarito, B.C.",
+                            "country": "Mexico",
+                            "institution": "International Rectifiers Mexico",
+                            "tags": ["Oracle PL/SQL", "TOAD", "Visual Studio 2003", "Visual Studio 2005", "Visio 2000", "Crystal Reports 8.0", "Active Reports", "Infragistics Suite (2002, 2003, 2004)"]
+                        },
+                        "es": {
+                            "title": "Visual Basic Developer",
+                            "description": "Diseñé y desarrollé componentes de software, paquetes Oracle y sistemas de QA; lideré migraciones y sincronización de datos entre sistemas.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Diseñé y desarrollé componentes de software, paquetes Oracle, sistemas de seguridad y la primera versión de framework; desarrollé un sistema de QA desde la concepción hasta el despliegue en producción.",
+                                    "Creé un proceso batch lógico para sincronizar datos entre archivos MM3000 y HPs a Oracle; desarrollé la primera capa de Data Services.",
+                                    "Participé en la migración del sistema Hermes a Visio account para costear productos en stock, proceso y distribución.",
+                                    "Creé scripts P-SQL para migraciones de datos según las interfaces del nuevo sistema.",
+                                    "Construí una aplicación de pantalla táctil para QA en líneas de producción; desplegada en 7 líneas para inspección de lotes de semiconductores con interfaz intuitiva."
+                                ]
+                            },
+                            "province": "Rosarito, B.C.",
+                            "country": "México",
+                            "institution": "International Rectifiers Mexico",
+                            "tags": ["Oracle PL/SQL", "TOAD", "Visual Studio 2003", "Visual Studio 2005", "Visio 2000", "Crystal Reports 8.0", "Active Reports", "Infragistics Suite (2002, 2003, 2004)"]
+                        }
+                    }
+                },
+                {
+                    "id": 14,
+                    "dateStart": {"year": 2008, "month": 0},
+                    "dateEnd": {"year": 2024, "month": 0},
+                    "img": "images/Pictures/logos/ea.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Net Developer – back end",
+                            "description": "Developed WCF services to transfer images and promotional videos for e-marketing, built campaign management tools, and created a custom statistics site.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Developed components to transfer images and promotional videos through a WCF service for e-marketing in a gaming company.",
+                                    "Built campaign components, image transfer tools, and a prototype MVC3 statistics site, with unit testing for all modules.",
+                                    "Developed a statics website for monitoring gaming campaigns (fully custom)."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "Mexico",
+                            "institution": "Softtek / Electronic Arts",
+                            "tags": [".NET", "C#", "WCF", "N-Unit"]
+                        },
+                        "es": {
+                            "title": "Net Developer – back end",
+                            "description": "Desarrollé servicios WCF para transferir imágenes y videos promocionales para e-marketing, construí herramientas de campaña y un sitio de estadísticas personalizado.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Desarrollé componentes para transferir imágenes y videos promocionales a través de un servicio WCF para e-marketing en una compañía de videojuegos.",
+                                    "Construí componentes de campañas, herramientas de transferencia de imágenes y un sitio prototipo MVC3 de estadísticas, con pruebas unitarias en todos los módulos.",
+                                    "Creé un sitio de estadísticas para monitorear campañas de juegos (sitio totalmente personalizado)."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "México",
+                            "institution": "Softtek / Electronic Arts",
+                            "tags": [".NET", "C#", "WCF", "N-Unit"]
+                        }
+                    }
+                },
+                {
+                    "id": 15,
+                    "dateStart": {"year": 2008, "month": 0},
+                    "dateEnd": {"year": 2024, "month": 0},
+                    "img": "images/Pictures/logos/sage.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Chief Architect, Project leader, Developer",
+                            "description": "Developed and maintained components for a multi-site e-commerce platform, built deployment pipelines, and integrated analytics tracking.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Developed components for an e-commerce site and maintained/support over 100 sites.",
+                                    "Managed deployments, created automated MSBuild builds, reported progress daily, and participated in internal scrums.",
+                                    "Built components to support campaigns, image/video transfer, and a prototype MVC3 stats site; implemented Google Analytics, Criteo and Quantcast tracking, and synchronized orders with SAP." 
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "Mexico",
+                            "institution": "Softtek / Sage",
+                            "tags": [".NET", "C#", "HTML", "Sitecore", "SVN", "Hudson", "MVC3", "MS Build", "NUnit", "Google Analytics", "Quantcast", "Criteo"]
+                        },
+                        "es": {
+                            "title": "Chief Architect, Project leader, Developer",
+                            "description": "Desarrollé y mantuve componentes para una plataforma de comercio electrónico multi-sitio, construí pipelines de despliegue e integré tracking analítico.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Desarrollé componentes para un sitio de comercio electrónico y mantuve/soporté más de 100 sitios.",
+                                    "Gestioné despliegues, creé builds automatizados con MSBuild, reporté avances diarios y participé en scrums internos.",
+                                    "Construí componentes para campañas, transferencia de imágenes/videos y un sitio prototipo MVC3 de estadísticas; implementé Google Analytics, Criteo y Quantcast para tracking y sincronización de pedidos con SAP." 
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "México",
+                            "institution": "Softtek / Sage",
+                            "tags": [".NET", "C#", "HTML", "Sitecore", "SVN", "Hudson", "MVC3", "MS Build", "NUnit", "Google Analytics", "Quantcast", "Criteo"]
+                        }
+                    }
+                },
+                {
+                    "id": 16,
+                    "dateStart": {"year": 2008, "month": 0},
+                    "dateEnd": {"year": 2024, "month": 0},
+                    "img": "images/Pictures/logos/sprint.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Net Developer – back end",
+                            "description": "Developed components for a multi-site e-commerce platform, built deployment automation, and integrated analytics tracking.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Developed components for an e-commerce site and supported/maintained over 100 sites.",
+                                    "Managed deployments and created automated MSBuild builds; reported daily progress and participated in internal scrums.",
+                                    "Built components for campaign support, image/video transfer, and a prototype MVC3 statistics site, integrating Google Analytics, Criteo and Quantcast for product/order tracking with SAP synchronization."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "Mexico",
+                            "institution": "Softtek / Sprint",
+                            "tags": [".NET", "C#", "CSS3", "Jasmine"]
+                        },
+                        "es": {
+                            "title": "Net Developer – back end",
+                            "description": "Desarrollé componentes para un sitio de e-commerce multi-sitio, construí automatización de despliegues e integré tracking analítico.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Desarrollé componentes para un sitio de e-commerce y soporté/mantuve más de 100 sitios.",
+                                    "Gestioné despliegues y creé builds automatizados con MSBuild; reporté avances diarios y participé en scrums internos.",
+                                    "Construí componentes para soporte de campañas, transferencia de imágenes/videos y un sitio prototipo MVC3 de estadísticas, integrando Google Analytics, Criteo y Quantcast para seguimiento de productos/pedidos con sincronización SAP."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "México",
+                            "institution": "Softtek / Sprint",
+                            "tags": [".NET", "C#", "CSS3", "Jasmine"]
+                        }
+                    }
+                },
+                {
+                    "id": 17,
+                    "dateStart": {"year": 2008, "month": 0},
+                    "dateEnd": {"year": 2024, "month": 0},
+                    "img": "images/Pictures/logos/broadcom.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Net Developer – back end",
+                            "description": "Led a team updating engineering applications and modernizing database systems, with heavy coordination for branching/merging and production stability.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Project leader of a team responsible for updating ~10 engineering applications developed in ASP.NET, with extensive work updating stored procedures.",
+                                    "Acted as facilitator creating samples and assisting the team, writing technical documentation for a massive database update with new fields, while ensuring continuous production operation and coordinating branching/merging."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "Mexico",
+                            "institution": "Softtek / Broadcom",
+                            "tags": ["ASP.NET", "C#", "T-SQL", "PowerShell"]
+                        },
+                        "es": {
+                            "title": "Net Developer – back end",
+                            "description": "Lideré un equipo actualizando aplicaciones de ingeniería y modernizando sistemas de base de datos, con amplia coordinación para branching/merging y estabilidad en producción.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Líder de proyecto de un equipo encargado de actualizar ~10 aplicaciones de ingeniería desarrolladas en ASP.NET, con trabajo intenso en la actualización de procedimientos almacenados.",
+                                    "Actué como facilitador creando ejemplos y asistiendo al equipo, redactando documentación técnica para una actualización masiva de la base de datos con nuevos campos, asegurando la operación continua en producción y coordinando branching/merging."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "México",
+                            "institution": "Softtek / Broadcom",
+                            "tags": ["ASP.NET", "C#", "T-SQL", "PowerShell"]
+                        }
+                    }
+                },
+                {
+                    "id": 18,
+                    "dateStart": {"year": 2008, "month": 0},
+                    "dateEnd": {"year": 2024, "month": 0},
+                    "img": "images/Pictures/logos/barco.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Tech Leader",
+                            "description": "Developed backend and front-end components for ASP.NET applications, implementing WCF services to bridge proprietary hardware and controlling multiple displays.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Developed back-end components and user controls for ASP.NET, creating and consuming WCF services to bridge third-party hardware controlling multiple displays.",
+                                    "Participated as a developer on an ASP.NET site, writing back-end code and front-end components, and supporting team tasks." 
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "Mexico",
+                            "institution": "Softtek / Barco",
+                            "tags": ["Angular Js", "Javascript", "jQuery", "Paper Js", "C#", "WCF", "Jasmine", "SPA"]
+                        },
+                        "es": {
+                            "title": "Tech Leader",
+                            "description": "Desarrollé componentes back-end y front-end para aplicaciones ASP.NET, implementando servicios WCF para conectar hardware propietario y controlar múltiples displays.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Desarrollé componentes back-end y controles de usuario para ASP.NET, creando y consumiendo servicios WCF para conectar hardware de terceros que controla múltiples displays.",
+                                    "Participé como desarrollador en un sitio ASP.NET, escribiendo código back-end y componentes front-end, y apoyando tareas del equipo."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "México",
+                            "institution": "Softtek / Barco",
+                            "tags": ["Angular Js", "Javascript", "jQuery", "Paper Js", "C#", "WCF", "Jasmine", "SPA"]
+                        }
+                    }
+                },
+                {
+                    "id": 19,
+                    "dateStart": {"year": 2008, "month": 0},
+                    "dateEnd": {"year": 2024, "month": 0},
+                    "img": "images/Pictures/logos/envision.jpg",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Tech Leader",
+                            "description": "Technical leader for a legacy WinForms application, plus several ASP.NET apps and WCF services; delivered full impact analysis and task plans for the dev team.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Technical leader for a legacy application written in WinForms, some ASP.NET applications and a couple of WCF services.",
+                                    "Designed technical solutions for user stories and bug fixes, producing full impact analysis and detailed task breakdowns for developers.",
+                                    "Built a Transport Coordination application for medical situations, including support for special-needs cases."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "Mexico",
+                            "institution": "Softtek / Envision",
+                            "tags": ["C#", "WCF", "ASP.NET", "WinForms"]
+                        },
+                        "es": {
+                            "title": "Tech Leader",
+                            "description": "Líder técnico de una aplicación heredada en WinForms, varias aplicaciones ASP.NET y algunos servicios WCF; entregué análisis de impacto completo y plan de tareas para el equipo.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Líder técnico de una aplicación heredada escrita en WinForms, algunas aplicaciones ASP.NET y un par de servicios WCF.",
+                                    "Diseñé soluciones técnicas para historias de usuario y corrección de bugs, elaborando análisis de impacto completo y desgloses de tareas para los desarrolladores.",
+                                    "Construí una aplicación de Coordinación de Transporte para situaciones médicas, incluyendo soporte para casos con necesidades especiales."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "México",
+                            "institution": "Softtek / Envision",
+                            "tags": ["C#", "WCF", "ASP.NET", "WinForms"]
+                        }
+                    }
+                },
+                {
+                    "id": 11,
+                    "dateStart": {"year": 2018, "month": 0},
+                    "dateEnd": {"year": 2020, "month": 0},
+                    "img": "images/Pictures/logos/qbic.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Chief Architect, Project leader, Developer",
+                            "description": "Led the architecture and development of mobile and web applications, directing a small team and managing full-stack delivery.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Created a mobile app for a local gym to manage class scheduling, membership renewals, and concurrency, working with a 4-person team.",
+                                    "Prototyped an Ionic mobile app that communicated with an Arduino Bluetooth module to control basic operations like power and volume."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "Mexico",
+                            "institution": "Qbic, Alive Craft",
+                            "tags": ["NET Core", "C#", "SQL Server", "Firebase", "Android", "iOnic", "Typescript", "REST", "Bootstrap", "Angular", "Jenkins", "Git", "Aduino", "Scrum", "Kanban"]
+                        },
+                        "es": {
+                            "title": "Chief Architect, Project leader, Developer",
+                            "description": "Lideré la arquitectura y el desarrollo de aplicaciones móviles y web, dirigiendo un pequeño equipo y gestionando entregas full-stack.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Creé una aplicación móvil para un gimnasio local para gestionar clases, renovaciones de membresía y concurrencia, trabajando con un equipo de 4 personas.",
+                                    "Prototipé una aplicación móvil en Ionic que se comunicaba con un módulo Bluetooth Arduino para controlar operaciones básicas como encendido y volumen."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "México",
+                            "institution": "Qbic, Alive Craft",
+                            "tags": ["NET Core", "C#", "SQL Server", "Firebase", "Android", "iOnic", "Typescript", "REST", "Bootstrap", "Angular", "Jenkins", "Git", "Aduino", "Scrum", "Kanban"]
+                        }
+                    }
+                },
+                {
+                    "id": 12,
+                    "dateStart": {"year": 2008, "month": 9},
+                    "dateEnd": {"year": 2024, "month": 3},
+                    "img": "images/Pictures/logos/coinstar.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Net Developer – back end",
+                            "description": "Built backend components for a money transfer system using WCF services and a provider architecture, with heavy integration to legacy VB components.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Developed components for an ASP.NET site based on provider architecture, using WCF services for a money transfer system.",
+                                    "Worked from conception to deployment on data access layer, business components, services, message definitions, provider structure, and canonical entities, plus SQL Server 2008 stored procedures.",
+                                    "Embedded a legacy VB 32-bit application into a C# WinForms project using COM interop to extend functionality without breaking the existing implementation.",
+                                    "Maintained previous application versions with bug fixing and new enhancements.",
+                                    "Developed an e-commerce money transfer website from scratch using ASP.NET and AJAX calls."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "Mexico",
+                            "institution": "Softtek / Coinstar",
+                            "tags": ["AJAX", "Javascript", "SPA", "jQuery", "SVN", "COM-Interop"]
+                        },
+                        "es": {
+                            "title": "Net Developer – back end",
+                            "description": "Desarrollé componentes backend para un sistema de transferencia de dinero usando servicios WCF y arquitectura de proveedores, con integración a componentes VB heredados.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Desarrollé componentes para un sitio ASP.NET basado en arquitectura de proveedores, usando servicios WCF para un sistema de transferencia de dinero.",
+                                    "Trabajé de la concepción al despliegue en la capa de acceso a datos, componentes de negocio, servicios, definiciones de mensajes, estructura de proveedores y entidades canónicas, además de procedimientos almacenados en SQL Server 2008.",
+                                    "Incrusté una aplicación VB 32-bit heredada en un proyecto C# WinForms usando COM interop para extender funcionalidad sin romper la implementación existente.",
+                                    "Mantuve versiones anteriores de la aplicación con corrección de errores y nuevas mejoras.",
+                                    "Desarrollé un sitio web de transferencia de dinero desde cero usando ASP.NET y llamadas AJAX."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "México",
+                            "institution": "Softtek / Coinstar",
+                            "tags": ["AJAX", "Javascript", "SPA", "jQuery", "SVN", "COM-Interop"]
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "dateStart": {"year": 2010, "month": 0},
+                    "dateEnd": {"year": 2018, "month": 0},
+                    "img": "images/Pictures/logos/cetys.jpg",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Teacher, Chief Architect, Project Leader",
+                            "description": "Taught courses and led architectural design for mobile and distributed systems; created frameworks and guided teams in Agile delivery.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Taught subjects such as Distributed Systems, Mobile Computing, Agile Development, and Data Structures.",
+                                    "Created class material and study plans from scratch; participated closely in WASC certification reviews for engineering content.",
+                                    "Designed a mobile-oriented framework for the university and trained teams to develop Android, Windows Phone 7, iOS, MVC3 and WCF services for new applications.",
+                                    "Developed an Android survey application for students and a mobile web application providing campus maps and master's degree support services."
+                                ]
+                            },
+                            "province": "Ensenada, B.C.",
+                            "country": "Mexico",
+                            "institution": "Cetys Universidad",
+                            "tags": ["NET Core", "C#", "SQL Server", "Mongo", "Firebase", "Android", "iOS", "Windows Phone 7", "HTML 5", "CSS", "Javascript", "WCF", "WPF", "SOAP", "REST", "Bootstrap", "Ionic", "Angular Js", "Jenkins", "Mercurial", "Scrum", "Kanban"]
+                        },
+                        "es": {
+                            "title": "Teacher, Chief Architect, Project leader",
+                            "description": "Enseñé y lideré diseño arquitectónico para sistemas móviles y distribuidos; creé frameworks y guié equipos en entregas ágiles.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Responsable de al menos 4 materias como Sistemas Distribuidos, Computación Móvil, Desarrollo Ágil y Estructuras de Datos.",
+                                    "Creación de material de clase desde cero y planes de estudio; participación en certificación WASC revisando y actualizando contenidos de ingeniería.",
+                                    "Diseño de un framework orientado a móvil para la universidad; entrenamiento de equipos en Android, Windows Phone 7, iOS, MVC3 y servicios WCF.",
+                                    "Participación en la creación de una aplicación Android para encuestas a estudiantes y una aplicación web móvil para servicios universitarios (mapas, soporte de posgrado, etc.)."
+                                ]
+                            },
+                            "province": "Ensenada, B.C.",
+                            "country": "México",
+                            "institution": "Cetys Universidad",
+                            "tags": ["NET Core", "C#", "SQL Server", "Mongo", "Firebase", "Android", "iOS", "Windows Phone 7", "HTML 5", "CSS", "Javascript", "WCF", "WPF", "SOAP", "REST", "Bootstrap", "Ionic", "Angular Js", "Jenkins", "Mercurial", "Scrum", "Kanban"]
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "dateStart": {"year": 2007, "month": 9},
+                    "dateEnd": {"year": 2008, "month": 3},
+                    "img": "images/Pictures/logos/pounce.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Net Developer – back end",
+                            "description": "Developed backend components for an e-commerce system using a canonical architecture, including message processing, data synchronization, and integration layers.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Developed components for an e-commerce platform based on a canonical architecture.",
+                                    "Implemented canonical message formats, request/response handling, and occasional JavaScript on pages for messaging and refactoring.",
+                                    "Built and maintained various applications for the Digital Landing project, including an e-commerce storefront for telecom services.",
+                                    "Designed and implemented data synchronization between MM3000 files and Oracle, enforcing the canonical message structure.",
+                                    "Created backend infrastructure to support message processing and application logic for the Digital Landing platform."
+                                ]
+                            },
+                            "province": "Guadalajara, Jalisco",
+                            "country": "Mexico",
+                            "institution": "Pounce Consulting",
+                            "tags": ["C#", "XML", "SQL Server", "JavaScript"]
+                        },
+                        "es": {
+                            "title": "Net Developer – back end",
+                            "description": "Desarrollé componentes back-end para un sistema de e-commerce usando una arquitectura canónica, incluyendo procesamiento de mensajes, sincronización de datos e integraciones.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Desarrollé componentes para una plataforma de e-commerce basada en arquitectura canónica.",
+                                    "Implementé formatos de mensajes canónicos, manejo de solicitudes/respuestas y ocasionalmente JavaScript en páginas para mensajería y refactorización.",
+                                    "Construí y mantuve varias aplicaciones para el proyecto Digital Landing, incluyendo una tienda en línea para servicios de telecomunicaciones.",
+                                    "Diseñé e implementé la sincronización de datos entre archivos MM3000 y Oracle, aplicando la estructura de mensajes canónicos.",
+                                    "Creé la infraestructura de back-end para soportar el procesamiento de mensajes y la lógica de negocio de la plataforma Digital Landing."
+                                ]
+                            },
+                            "province": "Guadalajara, Jalisco",
+                            "country": "México",
+                            "institution": "Pounce Consulting",
+                            "tags": ["C#", "XML", "SQL Server", "JavaScript"]
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "dateStart": {"year": 2007, "month": 10},
+                    "dateEnd": {"year": 2015, "month": 11},
+                    "img": "images/Pictures/logos/xpesd.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Visual Basic and C# Developer",
+                            "description": "Developed enterprise applications across web and mobile platforms using .NET, C#, and mobile frameworks, and implemented CI/CD practices.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Developed front-end ASP.NET applications with C# and SQL Server 2005, creating stored procedures, triggers, and backend in T-SQL.",
+                                    "Created data services layers and an Android application for the restaurant market.",
+                                    "Involved in defining XPESD patterns and test cases.",
+                                    "Built a 4-layer architecture for scalable applications, including business logic, engines, and core implementations for WCF services consumed by Android, iOS, Windows Phone 7, and HTML5 clients.",
+                                    "Exposed RSS/Atom via WCF; implemented SOAP and REST web services and built a back-office portal in MVC3 for mobile app data maintenance.",
+                                    "Created unit tests using MS Unit and NUnit.",
+                                    "Developed Visual Studio 2010 extensions (dashboard showing TODO reports).",
+                                    "Tracked development progress using Scrum and Kanban; introduced CI with TeamCity."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "Mexico",
+                            "institution": "XPESD Enterprise Software Development",
+                            "tags": ["C#", "ASP.NET", "SQL Server 2005", "Android", "iOS", "Windows Phone 7", "Objective-C", "HTML 5", "CSS", "Javascript", "WCF", "WPF", "SOAP", "REST", "NUnit", "Hudson aka Jenkins", "Mercurial", "Scrum", "Kanban", "Team City"]
+                        },
+                        "es": {
+                            "title": "Visual Basic and C# Developer",
+                            "description": "Desarrollé aplicaciones empresariales para web y móvil usando .NET, C# y frameworks móviles, e implementé prácticas de CI/CD.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Desarrollé front-end en aplicaciones ASP.NET con C# y base de datos SQL Server 2005, creando procedimientos almacenados, triggers y backend en T-SQL.",
+                                    "Creé capas de servicios de datos y una aplicación Android para el mercado de restaurantes.",
+                                    "Participé en la definición de patrones XPESD y casos de prueba.",
+                                    "Construí una arquitectura de 4 capas para aplicaciones escalables, incluyendo lógica de negocio, motores e implementaciones core para servicios WCF consumidos por Android, iOS, Windows Phone 7 y clientes HTML5.",
+                                    "Expuse RSS/Atom vía WCF; implementé servicios web SOAP y REST y construí un portal back-office en MVC3 para mantenimiento de datos de aplicaciones móviles.",
+                                    "Creé pruebas unitarias usando MS Unit y NUnit.",
+                                    "Desarrollé extensiones para Visual Studio 2010 (panel de control con reporte TODO).",
+                                    "Seguimiento del desarrollo mediante Scrum y Kanban; introduje CI con TeamCity."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "México",
+                            "institution": "XPESD Enterprise Software Development",
+                            "tags": ["C#", "ASP.NET", "SQL Server 2005", "Android", "iOS", "Windows Phone 7", "Objective-C", "HTML 5", "CSS", "Javascript", "WCF", "WPF", "SOAP", "REST", "NUnit", "Hudson aka Jenkins", "Mercurial", "Scrum", "Kanban", "Team City"]
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2000, "month": 2},
+                    "dateEnd": {"year": 2004, "month": 3},
+                    "img": "images/Pictures/logos/grupolagza.jpg",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Visual Basic Developer",
+                            "description": "Built and maintained VB6 systems for insurance and administrative clients; led migration projects and designed deployment and sync architectures.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Responsible for creating and implementing database design, code revision, technical documentation, evaluating new technologies for possible integration, and deployment architecture.",
+                                    "Designed and developed software components and SQL packages for other programmers; acted as project leader in medium-to-large projects.",
+                                    "Participated in migration from the legacy ‘civ’ MS Access 97 system to SIL Software developed in VB6 (conception to deployment), including data migration and full system rewrite.",
+                                    "Proposed infrastructure for offices in three cities, providing local servers with replicated databases synchronized by scheduled jobs.",
+                                    "Suggested use of Windows 2000 remote desktop for application distribution across 200+ administrative users.",
+                                    "Created a system to control employee access and synchronize it with payroll using tab-delimited files, with semi-automated batch scripts."
+                                ]
+                            },
+                            "province": "Rosarito, B.C.",
+                            "country": "Mexico",
+                            "institution": "Grupo Lagza",
+                            "tags": ["Visual Basic 6.0", "Crystal Reports", "SQL Server 2000", "Microsoft Access"]
+                        },
+                        "es": {
+                            "title": "Visual Basic Developer",
+                            "description": "Desarrollé y mantuve sistemas VB6 para clientes de seguros y administrativos; lideré proyectos de migración y diseñé arquitecturas de despliegue y sincronización.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Responsable de crear e implementar el diseño de bases de datos, revisión de código, documentación técnica, evaluación de nuevas tecnologías y arquitectura de despliegue.",
+                                    "Diseñé y desarrollé componentes de software y paquetes SQL para otros programadores; actué como líder de proyecto en proyectos medianos y grandes.",
+                                    "Participé en la migración del sistema ‘civ’ en MS Access 97 al software SIL desarrollado en VB6 (concepción hasta despliegue), incluyendo migración de datos y reescritura completa del sistema.",
+                                    "Propuse la infraestructura para oficinas en tres ciudades, proporcionando servidores locales con bases de datos replicadas sincronizadas por trabajos programados.",
+                                    "Sugerí el uso de escritorio remoto de Windows 2000 para distribución de aplicaciones a más de 200 usuarios administrativos.",
+                                    "Creé un sistema para controlar el acceso de empleados y sincronizarlo con la nómina usando archivos tab-delimitados, con scripts por lotes semi-automatizados."
+                                ]
+                            },
+                            "province": "Rosarito, B.C.",
+                            "country": "México",
+                            "institution": "Grupo Lagza",
+                            "tags": ["Visual Basic 6.0", "Crystal Reports", "SQL Server 2000", "Microsoft Access"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 1995, "month": 0},
+                    "dateEnd": {"year": 1997, "month": 0},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Front End, Back End .Net Developer",
+                            "description": "Developed and maintained a full-stack .NET application used by dental clinics, including database design and report generation.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Created and implemented database design, performed code reviews, authored technical documentation, and managed deployments (including creation of distribution disks).",
+                                    "Participated in building dental management software from scratch, including report generation for balances, pending work, and more.",
+                                    "Developed a graphical interface to track dental treatments per tooth and maintain clinical records.",
+                                    "Implemented scheduling and patient visit coordination features, including financial balance tracking.",
+                                    "Packaged and distributed the software via CD installers for Windows platforms, deploying to over 30 dental clinics in the region."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "Mexico",
+                            "institution": "NBP (Network Business Plus)",
+                            "tags": ["Visual Basic", "Microsoft Access", "Crystal Reports"]
+                        },
+                        "es": {
+                            "title": "Front End, Back End .Net Developer",
+                            "description": "Desarrollé y mantuve una aplicación .NET full-stack utilizada por clínicas dentales, incluyendo diseño de base de datos y generación de reportes.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Creé e implementé el diseño de base de datos, revisé código, redacté documentación técnica y gestioné despliegues (incluida la creación de discos de distribución).",
+                                    "Participé en la creación desde cero del software dental, incluyendo la generación de reportes de balances, trabajos pendientes y más.",
+                                    "Desarrollé una interfaz gráfica para rastrear tratamientos dentales por diente y mantener registros clínicos.",
+                                    "Implementé funciones de programación y coordinación de visitas de pacientes, incluyendo el seguimiento de saldos financieros.",
+                                    "Empaqueté y distribuí el software en instaladores para Windows mediante CD, desplegándolo en más de 30 clínicas dentales de la región."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "México",
+                            "institution": "NBP (Network Business Plus)",
+                            "tags": ["Visual Basic", "Microsoft Access", "Crystal Reports"]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 1997, "month": 0},
+                    "dateEnd": {"year": 1998, "month": 0},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-desktop",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Visual Basic Developer",
+                            "description": "Built POS systems and managed networks for a family-run business using Visual Basic and Lantastic in a DOS environment.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Created the POS system for a family business.",
+                                    "Installed and configured networks using Lantastic, manually configuring network card pins in a DOS environment."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "Mexico",
+                            "institution": "Omega Partes S.A. de C.V.",
+                            "tags": ["Visual Basic", "Quick Basic", "dbase IV", "Lantastic"]
+                        },
+                        "es": {
+                            "title": "Visual Basic Developer",
+                            "description": "Construí sistemas POS y gestioné redes para un negocio familiar usando Visual Basic y Lantastic en un entorno DOS.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Creé el sistema POS para un negocio familiar.",
+                                    "Instalé y configuré redes usando Lantastic, configurando manualmente los pines de las tarjetas de red en un entorno DOS."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "México",
+                            "institution": "Omega Partes S.A. de C.V.",
+                            "tags": ["Visual Basic", "Quick Basic", "dbase IV", "Lantastic"]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 1998, "month": 0},
+                    "dateEnd": {"year": 2000, "month": 0},
+                    "img": "images/Pictures/logos/galasistemas.jpg",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Visual Basic Developer",
+                            "description": "Developed and maintained insurance and restaurant applications using Visual Basic 6 with Crystal Reports and SQL Server 7.0.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Responsible for software development, computer maintenance and user support.",
+                                    "Owned and managed insurance and restaurant applications developed in Visual Basic 6.",
+                                    "Built applications from scratch with a full interface focus in a RAD mode.",
+                                    "Distributed insurance software via CD with delimited text files to centralize data from local installations to headquarters."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "Mexico",
+                            "institution": "Gala Sistemas",
+                            "tags": ["Visual Basic 6", "Crystal Reports", "Infragistics", "Microsoft Access", "SQL Server 7.0"]
+                        },
+                        "es": {
+                            "title": "Visual Basic Developer",
+                            "description": "Desarrollé y mantuve aplicaciones de seguros y restaurantes usando Visual Basic 6 con Crystal Reports y SQL Server 7.0.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Responsable del desarrollo de software, mantenimiento de computadoras y soporte a usuarios.",
+                                    "Propietario y responsable de las aplicaciones de seguros y restaurantes desarrolladas en Visual Basic 6.",
+                                    "Aplicaciones creadas desde cero con enfoque completo en interfaz, estilo RAD.",
+                                    "Distribución del software vía CD con archivos de texto delimitados para centralizar datos de instalaciones locales en el sistema principal."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "México",
+                            "institution": "Gala Sistemas",
+                            "tags": ["Visual Basic 6", "Crystal Reports", "Infragistics", "Microsoft Access", "SQL Server 7.0"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 1994, "month": 0},
+                    "dateEnd": {"year": 1995, "month": 0},
+                    "img": "images/Pictures/logos/sony.png",
+                    "fallbackFaIcon": "fa-solid fa-desktop",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "IT Support",
+                            "description": "Supported users with device configuration, software installations, and hardware maintenance including video cards, sound cards, network adapters and modems.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Responsible for supporting the users by configuring devices and installing software, and performing hardware maintenance (update cards, network cards, video, etc.).",
+                                    "Installed commercial packages such as Microsoft Office, Windows 3.11, Lotus Suite, Norton Antivirus, and occasionally installed new devices like video cards, sound cards, network adapters, and modems."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "Mexico",
+                            "institution": "Sony",
+                            "tags": []
+                        },
+                        "es": {
+                            "title": "IT Support",
+                            "description": "Brindé soporte a usuarios con configuración de dispositivos, instalaciones de software y mantenimiento de hardware, incluyendo tarjetas de video, sonido, redes y módems.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Responsable de apoyar a los usuarios configurando dispositivos e instalando software, y realizando mantenimiento de hardware (tarjetas de actualización, tarjetas de red, video, etc.).",
+                                    "Instalé paquetes comerciales como Microsoft Office, Windows 3.11, Lotus Suite, Norton Antivirus, y ocasionalmente instalé nuevos dispositivos como tarjetas de video, tarjetas de sonido, adaptadores de red y módems."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "México",
+                            "institution": "Sony",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 20,
+                    "dateStart": {"year": 2008, "month": 0},
+                    "dateEnd": {"year": 2024, "month": 0},
+                    "img": "images/Pictures/logos/ups.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": ".Net Developer",
+                            "description": "Implemented user stories for an Angular front-end and a .NET Core Web API back-end, rebuilding legacy logic and enabling responsive Ionic applications.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Implemented user stories defined by the business, including UI components for an Angular front-end project.",
+                                    "Developed back-end logic and exposed functionality through a .NET Core Web API project.",
+                                    "Reverse-engineered an existing project and rebuilt it from scratch using the Ionic framework, ensuring full responsiveness across devices.",
+                                    "Created a REST Web API service to wrap legacy logic and enable modern consumption.",
+                                    "Pickup point application: built an Angular + Web API app for managing placards used for dropping/picking packages.",
+                                    "GVS application: created an Ionic app to manage project budgets and provide customizable quizzes."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "Mexico",
+                            "institution": "Softtek / UPS",
+                            "tags": ["iONIC", "TypeScript", "Bootstrap", "C#", "REST", ".NET Core", "SQL Server", "OAuth"]
+                        },
+                        "es": {
+                            "title": ".Net Developer",
+                            "description": "Implementé historias de usuario para un front-end Angular y un back-end Web API en .NET Core, reconstruyendo lógica heredada y habilitando apps Ionic responsivas.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Implementé historias de usuario definidas por el negocio, incluyendo componentes UI para un proyecto front-end en Angular.",
+                                    "Desarrollé lógica de back-end y expuse funcionalidades mediante un proyecto Web API en .NET Core.",
+                                    "Ingeniería inversa de un proyecto existente y reconstrucción desde cero en Ionic, asegurando total responsividad en diferentes dispositivos.",
+                                    "Creé un servicio Web API REST para envolver lógica heredada y habilitar consumo moderno.",
+                                    "Aplicación Pickup point: desarrollé una app Angular + Web API para gestionar información de placards de drop/pick de paquetes.",
+                                    "Aplicación GVS: creé una app Ionic para manejar presupuestos de proyecto y quizzes personalizables."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "México",
+                            "institution": "Softtek / UPS",
+                            "tags": ["iONIC", "TypeScript", "Bootstrap", "C#", "REST", ".NET Core", "SQL Server", "OAuth"]
+                        }
+                    }
+                },
+                {
+                    "id": 21,
+                    "dateStart": {"year": 2008, "month": 0},
+                    "dateEnd": {"year": 2024, "month": 0},
+                    "img": "images/Pictures/logos/sterling.png",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": ".Net Developer",
+                            "description": "Implemented and maintained .NET Core Web APIs, wrapped legacy services with a façade layer, and built front-end support for multiple proprietary web apps.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Implemented new functionality and bug fixes for existing .NET Core Web APIs serving multiple proprietary web applications.",
+                                    "Acted as technical lead for a legacy ASP.NET application and a set of WCF services.",
+                                    "Designed and implemented a migration strategy to switch between incompatible versions of a government API via a facade and wrapper layer.",
+                                    "Evaluated the current database and planned migration to a new database managed by the parent system.",
+                                    "Created a PowerShell job to migrate data from the current database into the parent system database.",
+                                    "Built an employment process management app in ASP.NET consuming government background-check APIs."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "Mexico",
+                            "institution": "Softtek / Sterling",
+                            "tags": [".NET", "C#", "ASP.Net", "WebAPI", "AWS", "Dynamo", "SQL Server", "PowerShell"]
+                        },
+                        "es": {
+                            "title": ".Net Developer",
+                            "description": "Implementé y mantuve APIs Web .NET Core, encapsulé servicios heredados con una capa fachada y desarrollé soporte frontend para múltiples aplicaciones propietarias.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Implementé nueva funcionalidad y corrección de bugs para APIs Web .NET Core existentes que sirven a varias aplicaciones web propietarias.",
+                                    "Actué como líder técnico de una aplicación heredada en ASP.NET y un conjunto de servicios WCF.",
+                                    "Diseñé e implementé una estrategia de migración para cambiar entre versiones incompatibles de una API gubernamental usando una capa fachada y envoltura.",
+                                    "Evalué la base de datos actual y planifiqué la migración a una nueva base de datos manejada por el sistema principal.",
+                                    "Creé un job en PowerShell para migrar datos de la base de datos actual al sistema de la empresa matriz.",
+                                    "Desarrollé una aplicación de gestión de procesos de empleo en ASP.NET que consume APIs gubernamentales de verificación de antecedentes."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "México",
+                            "institution": "Softtek / Sterling",
+                            "tags": [".NET", "C#", "ASP.Net", "WebAPI", "AWS", "Dynamo", "SQL Server", "PowerShell"]
+                        }
+                    }
+                },
+                {
+                    "id": 22,
+                    "dateStart": {"year": 2008, "month": 0},
+                    "dateEnd": {"year": 2024, "month": 0},
+                    "img": "images/Pictures/logos/redwood.jpg",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": ".Net Developer",
+                            "description": "Owned multiple legacy applications (ASP.NET, MVC, WinForms, Windows Services) and delivered stable operation through careful code changes and documentation.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Owned multiple legacy applications developed in ASP.NET, MVC, WinForms, Windows Services, and numerous batch jobs.",
+                                    "Documented existing systems extensively when the core applications were built by an external vendor and had no documentation.",
+                                    "Made minimal changes to ensure applications ran in the target environment while avoiding operational impact.",
+                                    "Designed and implemented a migration strategy for a government API by building a façade and wrapper layer to switch between incompatible versions without affecting existing logic.",
+                                    "Evaluated the current database and planned its migration to the parent system's database.",
+                                    "Created a PowerShell job to migrate data from the current database into the parent system database."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "Mexico",
+                            "institution": "Softtek / Reedwood",
+                            "tags": ["C#", "WinForms", "Azure", "ASP.Net", "T-SQL", "PowerShell", "Scrum", "Tech Documentation"]
+                        },
+                        "es": {
+                            "title": ".Net Developer",
+                            "description": "Asumí la responsabilidad de múltiples aplicaciones legacy (ASP.NET, MVC, WinForms, Windows Services) y aseguré operación estable mediante cambios cuidadosos y documentación.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Asumí la propiedad de múltiples aplicaciones legacy desarrolladas en ASP.NET, MVC, WinForms, Windows Services y numerosos jobs por lotes.",
+                                    "Documenté exhaustivamente sistemas existentes cuando las aplicaciones principales fueron construidas por un proveedor externo y no tenían documentación.",
+                                    "Realicé cambios mínimos para asegurar que las aplicaciones funcionaran en el entorno propuesto, evitando impactos operativos.",
+                                    "Diseñé e implementé una estrategia de migración para una API gubernamental construyendo una capa fachada y wrapper para alternar entre versiones incompatibles sin comprometer la lógica actual.",
+                                    "Evalué la base de datos actual y planifiqué su migración a la base de datos del sistema madre.",
+                                    "Creé un job en PowerShell para migrar datos de la base de datos actual al sistema de la empresa matriz."
+                                ]
+                            },
+                            "province": "Ensenada, Baja California",
+                            "country": "México",
+                            "institution": "Softtek / Reedwood",
+                            "tags": ["C#", "WinForms", "Azure", "ASP.Net", "T-SQL", "PowerShell", "Scrum", "Tech Documentation"]
+                        }
+                    }
+                },
+                {
+                    "id": 23,
+                    "dateStart": {"year": 2023, "month": 8},
+                    "dateEnd": {"year": 2024, "month": 11},
+                    "img": "images/Pictures/logos/ascendion.jpg",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Developer",
+                            "description": "Worked as a .NET developer migrating legacy apps into REST APIs and implementing Angular components for a loan/prospecting application. (Santander USA)",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Worked as a .NET developer migrating old .NET applications into REST API services and implementing Angular components.",
+                                    "Built a small loan/prospecting application with follow-up calls and related features.",
+                                    "Developed and supported a responsive UI using Angular and integrated it with backend APIs.",
+                                    "Documented migration changes and ensured stable operation in production."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "Mexico",
+                            "institution": "Ascendion",
+                            "tags": ["C#", "Azure", "Angular", "ASP.Net", "WebAPI", "SQL Server", "PowerShell"]
+                        },
+                        "es": {
+                            "title": "Full Stack Developer",
+                            "description": "Trabajé como desarrollador .NET migrando apps legacy a APIs REST e implementando componentes Angular para una aplicación de préstamos y prospección.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Trabajé como desarrollador .NET migrando aplicaciones antiguas a servicios REST e implementando componentes Angular.",
+                                    "Construí una aplicación pequeña de préstamos y prospección con seguimiento de llamadas y funciones relacionadas.",
+                                    "Desarrollé y soporté una UI responsiva con Angular, integrándola con APIs backend.",
+                                    "Documenté los cambios de migración y aseguré una operación estable en producción."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "México",
+                            "institution": "Ascendion",
+                            "tags": ["C#", "Azure", "Angular", "ASP.Net", "WebAPI", "SQL Server", "PowerShell"]
+                        }
+                    }
+                },
+                {
+                    "id": 24,
+                    "dateStart": {"year": 2025, "month": 0},
+                    "dateEnd": {"year": 2026, "month": 1},
+                    "img": "images/Pictures/logos/traxporta.jpg",
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "FullStack Developer",
+                            "description": "Worked as a full-stack developer using .NET on the back end and Vue.js on the front end, handling tickets for system needs and database changes in SQL Server and MongoDB.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Participated as a full-stack developer using .NET for backend and Vue.js for frontend, handling tickets based on system demand including database changes in SQL Server and MongoDB.",
+                                    "All APIs were containerized with Docker for local development; releases were made daily due to a large team (>20 developers) and frequent updates."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "Mexico",
+                            "institution": "Traxporta",
+                            "tags": [".NET", "C#", "Azure", "OAuth", "Vue.js", "TypeScript", "Docker", "Mongo", "Minimal API"]
+                        },
+                        "es": {
+                            "title": "FullStack Developer",
+                            "description": "Participé como desarrollador full-stack usando .NET en el backend y Vue.js en el frontend, atendiendo tickets de acuerdo a la demanda del sistema y cambios en bases de datos SQL Server y MongoDB.",
+                            "list": {
+                                "title": "Responsabilidades Clave",
+                                "items": [
+                                    "Participé como desarrollador full-stack usando .NET en el backend y Vue.js en el frontend, atendiendo tickets según la demanda del sistema, incluyendo cambios en SQL Server y MongoDB.",
+                                    "Todas las APIs se desplegaron en Docker para desarrollo local; se realizaron releases diarios debido a un equipo grande (>20 desarrolladores) y actualizaciones frecuentes."
+                                ]
+                            },
+                            "province": "Tijuana, B.C.",
+                            "country": "México",
+                            "institution": "Traxporta",
+                            "tags": [".NET", "C#", "Azure", "OAuth", "Vue.js", "TypeScript", "Docker", "Mongo", "Minimal API"]
+                        }
+                    }
+                }
+          ]
+        }
+    ]
+}

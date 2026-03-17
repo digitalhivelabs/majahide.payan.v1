@@ -1,0 +1,115 @@
+{
+    "articles": [
+        {
+            "id": "profile-hobbies",
+            "component": "ArticleSkills",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": "pie"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "fallbackFaIcon": "fa-solid fa-person-biking", 
+                    "fallbackFaIconColor": "#E74C3C",
+                    "percentage": 17,
+                    "locales": {
+                        "en": {
+                            "title": "MTB",
+                            "description": "Mountain biking and trail riding"
+                        },
+                        "es": {
+                            "title": "MTB",
+                            "description": "Ciclismo de montaña y rutas en senderos"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "fallbackFaIcon": "fa-solid fa-person-hiking", 
+                    "fallbackFaIconColor": "#27AE60",
+                    "percentage": 17,
+                    "locales": {
+                        "en": {
+                            "title": "Hiking",
+                            "description": "Nature walks and mountain hiking"
+                        },
+                        "es": {
+                            "title": "Hiking",
+                            "description": "Caminatas en la naturaleza y senderismo"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "fallbackFaIcon": "fa-solid fa-person-swimming", 
+                    "fallbackFaIconColor": "#3498DB",
+                    "percentage": 17, 
+                    "locales": {
+                        "en": {
+                            "title": "Kayaking",
+                            "description": "Water sports and kayaking adventures"
+                        },
+                        "es": {
+                            "title": "Kayaking",
+                            "description": "Deportes acuáticos y aventuras en kayak"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "fallbackFaIcon": "fa-solid fa-scissors", 
+                    "fallbackFaIconColor": "#F39C12",
+                    "percentage": 17, 
+                    "locales": {
+                        "en": {
+                            "title": "Papercraft",
+                            "description": "Paper crafting and model building"
+                        },
+                        "es": {
+                            "title": "Papercraft",
+                            "description": "Manualidades con papel y construcción de maquetas"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "fallbackFaIcon": "fa-solid fa-shapes", 
+                    "fallbackFaIconColor": "#9B59B6",
+                    "percentage": 16, 
+                    "locales": {
+                        "en": {
+                            "title": "Origami 3D",
+                            "description": "3D origami and paper folding art"
+                        },
+                        "es": {
+                            "title": "Origami 3D",
+                            "description": "Origami 3D y arte de plegado de papel"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "fallbackFaIcon": "fa-solid fa-microchip", 
+                    "fallbackFaIconColor": "#E67E22",
+                    "percentage": 16, 
+                    "locales": {
+                        "en": {
+                            "title": "ESP32 Prototyping",
+                            "description": "IoT projects and microcontroller programming"
+                        },
+                        "es": {
+                            "title": "ESP32 Prototyping",
+                            "description": "Proyectos IoT y programación de microcontroladores"
+                        }
+                    }
+                }
+          ]
+        }
+
+    ]
+}
